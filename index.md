@@ -10,7 +10,7 @@ title: Accueil
 ### Scène 1
 
 <audio controls>
-  <source src="{{ '/assets/extrait1.mp3' | relative_url }}" type="audio/mpeg">
+  <source src="{{ '/extrait1.mp3' | relative_url }}" type="audio/mpeg">
 </audio>
 
 ---
