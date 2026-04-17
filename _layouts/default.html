@@ -3,9 +3,17 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
   </head>
   <body>
-    {% include header.html %}
-    {{ content }}
+    <header>
+      {% include header.html %}
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    <footer>
+      <p>© {{ site.time | date: '%Y' }} - Annexes audio de mon mémoire</p>
+    </footer>
   </body>
 </html>
