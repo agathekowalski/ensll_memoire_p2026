@@ -10,7 +10,7 @@ title: Accueil
 ### Entretien 1
 
 <audio controls style="width:100%;">
-  <source src="{{ '/assets/extrait1.mp3' | relative_url }}" type="audio/mpeg">
+  <source src="assets/extrait1.mp3" type="audio/mpeg">
 </audio>
 
 ---
