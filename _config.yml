@@ -1,7 +1,7 @@
 title: Annexes de mémoire
 subtitle: Agathe KOWALSKI - Master Son 
 description: Annexes audio-visuelles du mémoire ENSLL 2026
-theme: minima
+#theme: minima
 
 baseurl: "/ensll_memoire_p2026/"  # Doit commencer et finir par un slash
 url: ""  # Laisse vide si tu utilises GitHub Pages avec un domaine github.io
