@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Simulations acoustiques
-permalink: /simulations/
+
 ---
 # Simulations acoustiques
 
