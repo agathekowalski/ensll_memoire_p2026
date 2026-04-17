@@ -12,6 +12,7 @@ title: Accueil
 <audio controls>
   <source src="{{ '/assets/extrait1.mp3' | relative_url }}" type="audio/mpeg">
 </audio>
+
 ---
 
 ## Vidéos
