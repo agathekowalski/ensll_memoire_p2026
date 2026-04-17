@@ -1,9 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }}</title>
+    <!-- Lien vers ton CSS à la racine -->
     <link rel="stylesheet" href="{{ "/styles.css" | relative_url }}">
+    <!-- Police Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
   </head>
   <body>
     <header>
@@ -13,7 +19,7 @@
       {{ content }}
     </main>
     <footer>
-      <p>{{ site.time | date: '%Y' }} - Annexes de mémoire</p>
+      <p>2026 - Annexes de mémoire</p>
     </footer>
   </body>
 </html>
