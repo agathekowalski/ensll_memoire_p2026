@@ -7,4 +7,6 @@ title: Simulations acoustiques
 
 Voici mes fichiers audio de simulations :
 
-- [Simulation 1](/ensll_memoire_p2026/assets/audios/extrait1.mp3)
+<audio controls>
+  <source src="{{ '/simulations/extrait1.mp3' | relative_url }}" type="audio/mpeg">
+</audio>
