@@ -7,4 +7,4 @@ title: Mesures acoustiques
 
 Voici mes fichiers audio de mesures :
 
-- [Mesure 1](/assets/audios/extrait1.mp3)
+- [Mesure 1](/ensll_memoire_p2026/assets/audios/extrait1.mp3)
