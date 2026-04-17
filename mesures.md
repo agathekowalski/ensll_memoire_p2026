@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mesures acoustiques
+permalink: /mesures/
 ---
 # Mesures acoustiques
 
