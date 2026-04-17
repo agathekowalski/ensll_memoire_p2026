@@ -3,7 +3,6 @@ subtitle: Agathe KOWALSKI - Master Son
 description: Annexes audio-visuelles du mémoire ENSLL 2026
 theme: minima
 
-include: ['assets']
-include: ['assets/audios']
-
 baseurl: "/ensll_memoire_p2026"
+include: ['audios'] 
+
