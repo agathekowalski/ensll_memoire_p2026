@@ -10,7 +10,8 @@ title: acceuil
 ### Scène 1
 
 <audio controls>
-  <source src="{{ '/ensll_memoire_p2026/assets/audios/extrait1.mp3' | relative_url }}" type="audio/mpeg">
+  <source src="{{ site.baseurl }}/assets/audios/extrait1.mp3" type="audio/mpeg">
+  Ton navigateur ne supporte pas l'élément audio.
 </audio>
 
 ---
