@@ -10,7 +10,7 @@ title: acceuil
 ### Scène 1
 
 <audio controls>
-  <source src="{{ '/assets/audios/extrait1.mp3' | relative_url }}" type="audio/mpeg">
+  <source src="{{ '/ensll_memoire_p2026/assets/audios/extrait1.mp3' | relative_url }}" type="audio/mpeg">
 </audio>
 
 ---
