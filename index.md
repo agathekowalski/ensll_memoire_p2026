@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Accueil
 ---
 
 # Annexes audio-visuelles
