@@ -202,9 +202,3 @@ On montre sur l'image ci-dessous les positions de la _source_ et du _listener_ c
 
 
 
-
-## 3 - Extraits audios des réponses impulsionnelles 
-
-<audio controls>
-  <source src="{{ '/simulations/extrait1.mp3' | relative_url }}" type="audio/mpeg">
-</audio>
