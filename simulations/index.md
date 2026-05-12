@@ -48,6 +48,13 @@ obj = bpy.context.active_object
 print("Volume:", mesh_volume(obj))
 
 ```
+On obtient alors une valeur en m^3 : 
+
+```python
+
+Volume: 18 179.68
+
+```
 
 ### Calucl des surfaces occupées par chaque matériau (appelés _material_) 
 
@@ -77,6 +84,20 @@ print("Surface area by material index:")
 for mat_index, area in material_areas.items():
     mat_name = mesh.materials[mat_index].name if mesh.materials[mat_index] else "None"
     print(f"{mat_name}: {area:.4f} m2")
+```
+On obtient alors des valurs en m^2 : 
+
+```python
+
+Surface area by material index:
+100% absorbent: 3 465,0182 m2
+Pierre Poreuse (Argentomagus): 1391.9365 m2
+Mur de scene (Argentomagus): 27.3457 m2
+Marbre frons pulpiti (Argentomagus): 29.4726 m2
+Pilier (Argentomagus): 32.2453 m2
+CR4_parquet (BRAS): 275.8170 m2
+Audience : 2932.8210
+
 ```
 
 ## Essai audio
