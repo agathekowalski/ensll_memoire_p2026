@@ -47,6 +47,7 @@ def mesh_volume(obj):
 obj = bpy.context.active_object
 print("Volume:", mesh_volume(obj))
 ```
+
 On obtient alors une valeur en m³ : 
 
 ```python
@@ -81,6 +82,7 @@ for mat_index, area in material_areas.items():
     mat_name = mesh.materials[mat_index].name if mesh.materials[mat_index] else "None"
     print(f"{mat_name}: {area:.4f} m2")
 ```
+
 On obtient alors des valurs en m² : 
 
 ```python
@@ -132,13 +134,25 @@ V_total = 18179.68
 # a par bande
 a_coefficient = sum_a_S.values / S_total
 
-print(a_coefficient) 
-
 for i, f in enumerate(frequencies) :
     eyring_syracuse = pra.rt60_eyring(S_total*(scaling_factor)**2,V_total*(scaling_factor)**3,a_coefficient[i],m[i],343)
     print(f, eyring_syracuse)
 ```
 
+On obtient un temps de réverbération théorique en secondes, par bande de fréqences : 
+
+```python
+125Hz 0.7543352292238422
+250Hz 0.7480709075080848
+500Hz 0.7444873103403937
+1000Hz 0.7404742688208299
+2000Hz 0.7820422372747707
+4000Hz 0.840997203145685
+8000Hz 1.2119304859605542
+```
+
+Grâce au facteur multiplicateur appliqué, on peut alors prévoir une surestimation ou non du temps de réverbération, 
+et ajuster les coefficients de d'absorption et de diffusion des matériaux. 
 
 ## Essai audio
 
