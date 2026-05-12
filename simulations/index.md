@@ -14,6 +14,8 @@ est possible dans _Blender_ au moyen d'un script _Python_ :
 
 ### Calucl des surfaces occupées par chaque _material_ 
 
+```python
+
 import bpy
 import bmesh
 from mathutils import Vector
@@ -38,8 +40,7 @@ print("Surface area by material index:")
 for mat_index, area in material_areas.items():
     mat_name = mesh.materials[mat_index].name if mesh.materials[mat_index] else "None"
     print(f"{mat_name}: {area:.4f} m2")
-
-
+```
 
 ## Essai audio
 
