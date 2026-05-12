@@ -8,26 +8,26 @@
     <link rel="stylesheet" href="{{ "/style.css" | relative_url }}">
    <style>
   /* Thème sombre et coloré pour les blocs de code (inspiré de Dracula/Monokai) */
-  /* Thème sombre et coloré pour les blocs de code */
   .highlight {
     background-color: #282a36;
     border-radius: 5px;
-    padding: 0.5rem;  /* Réduit le padding vertical et horizontal */
+    padding: 0.5rem;  /* Garde un peu de padding intérieur pour l'espace */
     overflow-x: auto;
-    margin: 0.5rem 0;  /* Réduit la marge verticale */
+    margin: 0.1;  
     font-size: 0.9rem;
     line-height: 1.5;
     color: #f8f8f2;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    width: 100%;  /* Assure que le bloc prend toute la largeur disponible */
   }
 
   /* Numéros de ligne */
   .highlight .lineno {
     color: #6272a4;
-    padding-right: 0.5rem;  /* Réduit l'espace entre les numéros et le code */
+    padding-right: 0.5rem;
     user-select: none;
     border-right: 1px solid #44475a;
-    margin-right: 0.5rem;  /* Réduit la marge à droite des numéros */
+    margin-right: 0.5rem;
   }
 
   /* Le reste de ton CSS pour la coloration syntaxique reste inchangé */
