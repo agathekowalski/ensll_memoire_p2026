@@ -184,8 +184,8 @@ en comparaison des mesures réalisées au théâtre de Syracuse.
 <iframe
     src="{{ site.baseurl }}/interactive/RIR_config1_listener1_source1.html"
     width="100%"
-    height="900px"
-    width=1800px"
+    height="700px"
+    width="1400px"
     frameborder="0"
     style="border: none; border-radius: 5px; margin: 1rem 0;">
 </iframe>
