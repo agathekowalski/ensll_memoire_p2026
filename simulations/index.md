@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Simulations acoustiques
+title: Simulation acoustique
 
 ---
 # Simulation acoustique du théâtre d'Argentomagus 
