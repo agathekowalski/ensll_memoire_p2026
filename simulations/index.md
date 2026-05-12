@@ -156,8 +156,8 @@ On obtient des premiers temps de réverbération théoriques en secondes, par ba
 8000Hz 1.7690107569556643
 ```
 
-On trouve un temps de réverbération moyen de **0,96 secondes** entre 500 Hz et 1000 Hz. 
-Le temps cible issu des mesures du théâtre de Syracuse étant de **0,81 secondes**,
+On trouve un temps de réverbération moyen de **0,96 s** entre 500 Hz et 1000 Hz. 
+Le temps cible issu des mesures du théâtre de Syracuse étant de **0,81 s**,
 on ajuste le coefficient d'absorption des matériaux majoritaires en augmentant l'absorption de la pierre et des gradins. 
 De plus, les coefficients de diffusion sont légèrement augmentés 
 pour amoindrir la contribution de rayons « stationnairess »
@@ -175,7 +175,7 @@ On obtient alors une seconde banque de temps de réverbération par bande de fr�
 8000Hz 1.4935438193729154
 ```
 
-On trouve un temps de réverbération moyen de **0,84 secondes** entre 500 Hz et 1000 Hz, plus cohérent
+On trouve un temps de réverbération moyen de **0,84 s** entre 500 Hz et 1000 Hz, plus cohérent
 en comparaison des mesures réalisées au théâtre de Syracuse. 
 
 ## Essai audio
