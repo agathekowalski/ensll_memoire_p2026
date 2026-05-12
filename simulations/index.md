@@ -185,7 +185,7 @@ Voici une visualisation interactive des paramètres acoustiques issus d'une rép
 Les différents indices sont décrits en Annexes A (Indices de mesure de l'acoustique d'une salle) du mémoire. 
 
 <iframe
-    src="{{ site.baseurl }}/interactive/RIR_config1_listener1_source1.html"
+    src="{{ site.baseurl }}/interactive/RIR_config1_listener6_source6.html"
     width="100%"
     height="800px"
     width="1000px"
