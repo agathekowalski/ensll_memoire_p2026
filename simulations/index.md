@@ -12,7 +12,44 @@ de réverbération moyen pour le théâtre d'Argentomagus.
 L'estimation du volume du modèle 3D du théâtre et la surface occupée par chacun de ses matériaux
 est possible dans _Blender_ au moyen d'un script _Python_ : 
 
-### Calucl des surfaces occupées par chaque _material_ 
+### Calucl du volume total du modèle (appelé _mesh_) : 
+
+```python
+import bpy
+import bmesh
+from mathutils import Vector
+
+def mesh_volume(obj):
+    # Get evaluated mesh (includes modifiers)
+    dg = bpy.context.evaluated_depsgraph_get()
+    eval_obj = obj.evaluated_get(dg)
+    mesh = eval_obj.to_mesh()
+
+    # Ensure triangulation for accurate calculation
+    bm = bmesh.new()
+    bm.from_mesh(mesh)
+    bmesh.ops.triangulate(bm, faces=bm.faces)
+    bm.to_mesh(mesh)
+    bm.free()
+
+    volume = 0.0
+    verts = mesh.vertices
+
+    for poly in mesh.polygons:
+        # Poly is now always a triangle thanks to triangulation
+        v1, v2, v3 = (verts[i].co for i in poly.vertices)
+        volume += v1.cross(v2).dot(v3)
+
+    eval_obj.to_mesh_clear()
+
+    return abs(volume) / 6.0
+
+obj = bpy.context.active_object
+print("Volume:", mesh_volume(obj))
+
+```
+
+### Calucl des surfaces occupées par chaque matériau (appelés _material_) 
 
 ```python
 
