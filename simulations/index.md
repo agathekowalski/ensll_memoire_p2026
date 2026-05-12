@@ -139,7 +139,7 @@ for i, f in enumerate(frequencies) :
     print(f, eyring_syracuse)
 ```
 
-On obtient un temps de réverbération théorique en secondes, par bande de fréqences : 
+On obtient un temps de réverbération théorique en secondes, par bande de fréquences : 
 
 ```python
 125Hz 0.7543352292238422
@@ -152,7 +152,7 @@ On obtient un temps de réverbération théorique en secondes, par bande de fré
 ```
 
 Grâce au facteur multiplicateur appliqué, on peut alors prévoir une surestimation ou non du temps de réverbération, 
-et ajuster les coefficients de d'absorption et de diffusion des matériaux. 
+et ajuster en fonction les coefficients de d'absorption et de diffusion des matériaux. 
 
 ## Essai audio
 
