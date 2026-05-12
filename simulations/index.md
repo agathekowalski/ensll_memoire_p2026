@@ -5,7 +5,7 @@ title: Simulation acoustique
 ---
 # Simulation acoustique du théâtre d'Argentomagus 
 
-## Calibrations des coefficients d'absorption et de diffusion des matériaux 
+## 1 - Calibrations des coefficients d'absorption et de diffusion des matériaux 
 Une campagne de mesure menée dans le théâtre analogue de Syracuse, permet de viser un temps
 de réverbération moyen pour le théâtre d'Argentomagus. 
 
@@ -177,6 +177,12 @@ On obtient alors une seconde banque de temps de réverbération par bande de fr�
 
 On trouve un temps de réverbération moyen de **0,84 s** entre 500 Hz et 1000 Hz, plus cohérent
 en comparaison des mesures réalisées au théâtre de Syracuse. 
+
+
+## 2 - Visualisation des réponses impulsionnelles obtenues 
+
+
+
 
 ## Essai audio
 
