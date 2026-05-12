@@ -97,7 +97,7 @@ Audience : 2932.8210
 ```
 
 
-### Estimation du temps de réverbération moyen par bande de fréquences à partir des coefficients d'absorption définis pour chaque matériau : 
+### Estimation du temps de réverbération moyen par bande de fréquences
 
 On calcule alors un temps de réverbération théorique du modèle 3D, en fonction des dimensions obtenues et des coefficients d'absorption
 appliqués aux matériaux :
