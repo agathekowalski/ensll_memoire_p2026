@@ -94,6 +94,52 @@ CR4_parquet (BRAS): 275.8170 m2
 Audience : 2932.8210
 ```
 
+### Estimation du temps de réverbération moyen par bande de fréquences à partir des coefficients d'absorption définis pour chaque matériau : 
+
+```python
+import pyroomacoustics as pra 
+from pyroomacoustics.parameters import air_absorption_table
+import pandas as pd
+import numpy 
+import os
+
+scaling_factor = 1.4 
+# différence de diamètre entre Syracuse et Argentomagus 
+
+m = air_absorption_table["20C_30-50%"]
+
+script_dir = os.path.dirname(os.path.abspath(__file__))
+csv_path = os.path.join(script_dir, "surfaces_materiaux_calibration.csv")
+
+df = pd.read_csv(csv_path, sep=";")
+#print(df)
+
+frequencies = ['125Hz', '250Hz', '500Hz', '1000Hz', '2000Hz', '4000Hz', '8000Hz']
+surfaces = df['Surface occupee (m2)']
+
+# a*S par bande 
+a_S = df[frequencies].multiply(surfaces, axis='index')
+
+# somme des a*S
+sum_a_S = a_S.sum()
+
+S_total = surfaces.sum()
+
+V_total = 18179.68 
+#V_total = 23000
+
+
+# a par bande
+a_coefficient = sum_a_S.values / S_total
+
+print(a_coefficient) 
+
+for i, f in enumerate(frequencies) :
+    eyring_syracuse = pra.rt60_eyring(S_total*(scaling_factor)**2,V_total*(scaling_factor)**3,a_coefficient[i],m[i],343)
+    print(f, eyring_syracuse)
+```
+
+
 ## Essai audio
 
 <audio controls>
