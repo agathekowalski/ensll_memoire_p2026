@@ -51,7 +51,7 @@ print("Volume:", mesh_volume(obj))
 On obtient alors une valeur en m³ : 
 
 ```python
-Volume: 18 179.68
+Volume: 19589.84
 ```
 
 ### Calcul des surfaces occupées par chaque matériau (appelés _material_) :
@@ -131,8 +131,7 @@ sum_a_S = a_S.sum()
 
 S_total = surfaces.sum()
 
-V_total = 18179.68 
-#V_total = 23000
+V_total = 20589.84 
 
 
 # a par bande
@@ -142,21 +141,42 @@ for i, f in enumerate(frequencies) :
     eyring_syracuse = pra.rt60_eyring(S_total*(scaling_factor)**2,V_total*(scaling_factor)**3,a_coefficient[i],m[i],343)
     print(f, eyring_syracuse)
 ```
-
-On obtient un temps de réverbération théorique en secondes, par bande de fréquences : 
-
-```python
-125Hz 0.7543352292238422
-250Hz 0.7480709075080848
-500Hz 0.7444873103403937
-1000Hz 0.7404742688208299
-2000Hz 0.7820422372747707
-4000Hz 0.840997203145685
-8000Hz 1.2119304859605542
-```
-
 Grâce au facteur multiplicateur appliqué, on peut alors prévoir une surestimation ou non du temps de réverbération, 
 et ajuster en fonction les coefficients de d'absorption et de diffusion des matériaux. 
+
+On obtient des premiers temps de réverbération théoriques en secondes, par bande de fréquences : 
+
+```python
+125Hz 0.9612675076840118
+250Hz 0.9587378998535472
+500Hz 0.9652616418154282
+1000Hz 0.9666220852043232
+2000Hz 0.9852116816753088
+4000Hz 1.076935900755007
+8000Hz 1.7690107569556643
+```
+
+On trouve un temps de réverbération moyen de 0,96 secondes entre 500 Hz et 1000 Hz. 
+Le temps cible issu des mesures du théâtre de Syracuse étant de 0,81 secondes,
+on ajuste le coefficient d'absorption des matériaux majoritaires en augmentant l'absorption de la pierre et des gradins. 
+De plus, les coefficients de diffusion sont légèrement augmentés 
+pour amoindrir la contribution de rayons « stationnairess »
+qui font augmenter ce temps en restant entre des murs parallèles.
+
+On obtient alors une seconde banque de temps de réverbération par bande de fréquence : 
+
+```python
+125Hz 0.8545529356900029
+250Hz 0.8478722506507228
+500Hz 0.8444287953227818
+1000Hz 0.8406911528811933
+2000Hz 0.8900740918502903
+4000Hz 0.9680336413059126
+8000Hz 1.4935438193729154
+```
+
+On trouve un temps de réverbération moyen de 0,84 secondes entre 500 Hz et 1000 Hz, plus cohérent
+en comparaison des mesures réalisées au théâtre de Syracuse. 
 
 ## Essai audio
 
