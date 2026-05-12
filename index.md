@@ -18,9 +18,7 @@ des matériaux du modèle 3D du théâtre, ainsi que l'ensemble des **valeurs ob
 
 
 
-Des extraits 
-
-### [Annexe B : Mesures acoustiques](mesures/) 
+### [II - Mesures acoustiques](mesures/) 
 
 
 ---
