@@ -183,8 +183,7 @@ en comparaison des mesures réalisées au théâtre de Syracuse.
 
 
 
-
-## Essai audio
+## 3 - Extraits audios des réponses impulsionnelles 
 
 <audio controls>
   <source src="{{ '/simulations/extrait1.mp3' | relative_url }}" type="audio/mpeg">
