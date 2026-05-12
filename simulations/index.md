@@ -184,6 +184,8 @@ en comparaison des mesures réalisées au théâtre de Syracuse.
 Voici une visualisation interactive des paramètres acoustiques issus d'une réponse impulsionnelle simulée dans le modèle 3D.
 Les différents indices sont décrits en Annexes A (Indices de mesure de l'acoustique d'une salle) du mémoire. 
 
+La simulation est effectuée avec 2 millions de rayons et une surface récéptrice d'un rayon de 0,25 mètres. 
+
 <iframe
     src="{{ site.baseurl }}/interactive/RIR_config1_listener6_source6.html"
     width="100%"
