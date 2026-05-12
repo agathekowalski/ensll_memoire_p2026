@@ -193,7 +193,9 @@ Les différents indices sont décrits en Annexes A (Indices de mesure de l'acous
     style="border: none; border-radius: 5px; margin: 1rem 0;">
 </iframe>
 
+
 On montre sur l'image ci-dessous les positions de la _source_ et du _listener_ correspondantes dans le modèle : 
+
 
 <img
     src="{{ site.baseurl }}/assets/images/position_S_R_1.1.png"
