@@ -51,7 +51,7 @@ print("Volume:", mesh_volume(obj))
 On obtient alors une valeur en m³ : 
 
 ```python
-Volume: 19589.84
+Volume: 20589.84
 ```
 
 ### Calcul des surfaces occupées par chaque matériau (appelés _material_) :
