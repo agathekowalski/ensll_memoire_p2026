@@ -100,7 +100,7 @@ Audience : 2932.8210
 ### Estimation du temps de réverbération moyen par bande de fréquences
 
 On calcule alors un temps de réverbération théorique du modèle 3D, en fonction des dimensions obtenues et des coefficients d'absorption
-appliqués aux matériaux :
+appliqués aux matériaux. La formule de Eyring est incluse dans le logiciel _open-source_ _pyroomacoustics_ importé dans le script. 
 
 ```python
 import pyroomacoustics as pra 
