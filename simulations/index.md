@@ -54,7 +54,7 @@ On obtient alors une valeur en m³ :
 Volume: 18 179.68
 ```
 
-### Calucl des surfaces occupées par chaque matériau (appelés _material_) 
+### Calcul des surfaces occupées par chaque matériau (appelés _material_) :
 
 ```python
 import bpy
