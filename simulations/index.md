@@ -181,6 +181,8 @@ en comparaison des mesures réalisées au théâtre de Syracuse.
 
 ## 2 - Visualisation des réponses impulsionnelles obtenues 
 
+Lien pour visualiser les paramètres acoustiques issus de la réponse impulsionnelle : 
+<li><a href="{{ site.baseurl }}/interactive/RIR_config1_listener1_source1.html">Réponse impulsionnelle</a></li>
 
 <iframe
     src="{{ site.baseurl }}/interactive/RIR_config1_listener1_source1.html"
