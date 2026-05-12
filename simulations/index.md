@@ -3,7 +3,7 @@ layout: default
 title: Simulations acoustiques
 
 ---
-# Simulations acoustiques du théâtre d'Argentomagus 
+# Simulation acoustique du théâtre d'Argentomagus 
 
 ## Calibrations des coefficients d'absorption et de diffusion des matériaux 
 Une campagne de mesure menée dans le théâtre analogue de Syracuse, permet de viser un temps
