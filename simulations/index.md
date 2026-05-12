@@ -48,7 +48,7 @@ obj = bpy.context.active_object
 print("Volume:", mesh_volume(obj))
 
 ```
-On obtient alors une valeur en m^3 : 
+On obtient alors une valeur en m^3^ : 
 
 ```python
 
@@ -85,7 +85,7 @@ for mat_index, area in material_areas.items():
     mat_name = mesh.materials[mat_index].name if mesh.materials[mat_index] else "None"
     print(f"{mat_name}: {area:.4f} m2")
 ```
-On obtient alors des valurs en m^2 : 
+On obtient alors des valurs en m^2^ : 
 
 ```python
 
