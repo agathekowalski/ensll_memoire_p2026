@@ -93,7 +93,7 @@ Mur de scene (Argentomagus): 27.3457 m2
 Marbre frons pulpiti (Argentomagus): 29.4726 m2
 Pilier (Argentomagus): 32.2453 m2
 CR4_parquet (BRAS): 275.8170 m2
-Audience : 2932.8210
+Audience : 2932.8210 m2
 ```
 
 
