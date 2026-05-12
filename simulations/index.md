@@ -12,7 +12,7 @@ de réverbération moyen pour le théâtre d'Argentomagus.
 L'estimation du volume du modèle 3D du théâtre et la surface occupée par chacun de ses matériaux
 est possible dans _Blender_ au moyen d'un script _Python_ : 
 
-### Calucl du volume total du modèle (appelé _mesh_) : 
+### Calcul du volume total du modèle (appelé _mesh_) : 
 
 ```python
 import bpy
@@ -96,7 +96,11 @@ CR4_parquet (BRAS): 275.8170 m2
 Audience : 2932.8210
 ```
 
+
 ### Estimation du temps de réverbération moyen par bande de fréquences à partir des coefficients d'absorption définis pour chaque matériau : 
+
+On calcule alors un temps de réverbération théorique du modèle 3D, en fonction des dimensions obtenues et des coefficients d'absorption
+appliqués aux matériaux :
 
 ```python
 import pyroomacoustics as pra 
