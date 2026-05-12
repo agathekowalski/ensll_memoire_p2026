@@ -83,7 +83,7 @@ for mat_index, area in material_areas.items():
     print(f"{mat_name}: {area:.4f} m2")
 ```
 
-On obtient alors des valurs en m² : 
+On obtient alors des valeurs en m² : 
 
 ```python
 Surface area by material index:
