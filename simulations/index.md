@@ -181,14 +181,26 @@ en comparaison des mesures réalisées au théâtre de Syracuse.
 
 ## 2 - Visualisation des réponses impulsionnelles obtenues 
 
+Voici une visualisation interactive des paramètres acoustiques issus d'une réponse impulsionnelle simulée dans le modèle 3D.
+Les différents indices sont décrits en Annexes A (Indices de mesure de l'acoustique d'une salle) du mémoire. 
+
 <iframe
     src="{{ site.baseurl }}/interactive/RIR_config1_listener1_source1.html"
     width="100%"
-    height="700px"
+    height="800px"
     width="1000px"
     frameborder="0"
     style="border: none; border-radius: 5px; margin: 1rem 0;">
 </iframe>
+
+On montre sur l'image ci-dessous les positions de la _source_ et du _listener_ correspondantes dans le modèle : 
+
+<img
+    src="{{ site.baseurl }}/assets/images/position_S_R_1.1.png"
+    alt="Positions de la _source_ et du _listener_ dans le modèle 3D."
+    style="width: 100%; max-width: 800px; height: auto; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+
+
 
 
 ## 3 - Extraits audios des réponses impulsionnelles 
