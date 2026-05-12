@@ -8,30 +8,31 @@
     <link rel="stylesheet" href="{{ "/style.css" | relative_url }}">
    <style>
   /* Thème sombre et coloré pour les blocs de code (inspiré de Dracula/Monokai) */
+  /* Thème sombre et coloré pour les blocs de code */
   .highlight {
-    background-color: #282a36; /* Fond noir foncé */
+    background-color: #282a36;
     border-radius: 5px;
-    padding: 1.2rem;
+    padding: 0.5rem;  /* Réduit le padding vertical et horizontal */
     overflow-x: auto;
-    margin: 1.5rem 0;
+    margin: 0.5rem 0;  /* Réduit la marge verticale */
     font-size: 0.9rem;
     line-height: 1.5;
-    color: #f8f8f2; /* Texte blanc par défaut */
+    color: #f8f8f2;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   }
 
   /* Numéros de ligne */
   .highlight .lineno {
-    color: #6272a4; /* Gris bleuâtre */
-    padding-right: 1rem;
+    color: #6272a4;
+    padding-right: 0.5rem;  /* Réduit l'espace entre les numéros et le code */
     user-select: none;
     border-right: 1px solid #44475a;
-    margin-right: 1rem;
+    margin-right: 0.5rem;  /* Réduit la marge à droite des numéros */
   }
 
-  /* Colorations syntaxiques */
+  /* Le reste de ton CSS pour la coloration syntaxique reste inchangé */
   .highlight .k, .highlight .kd, .highlight .kn, .highlight .kp, .highlight .kr {
-    color: #ff79c6; /* Rose pour les mots-clés */
+    color: #ff79c6;
     font-weight: bold;
   }
   .highlight .s, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd, .highlight .s2, .highlight .se, .highlight .sh, .highlight .si, .highlight .sx, .highlight .sr {
