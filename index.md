@@ -12,7 +12,7 @@ title: acceuil
 
 Vous trouverez vers ces liens les annexes du mémoire :
 
-### [Annexe A : Simulations acoustiques](simulations/)
+### [Simulation acoustique du théâtre d’Argentomagus](simulations/)
 
 ### [Annexe B : Mesures acoustiques](mesures/) 
 
