@@ -159,7 +159,7 @@ On obtient des premiers temps de réverbération théoriques en secondes, par ba
 On trouve un temps de réverbération moyen de **0,96 s** entre 500 Hz et 1000 Hz. 
 Le temps cible issu des mesures du théâtre de Syracuse étant de 0,81~s, on augmente les coefficients d'absorption des matériaux majoritaires (ici la pierre poreuse et les gradins), d'après la méthode de calibration décrite en \ref{sub : simulations_limites_calibrations}. 
 De plus, les coefficients de diffusion sont relevés pour amoindrir la contribution
-de rayons «~stationnaires~» qui surestiment l'approximation du $Tr_{60}$.
+de rayons « stationnaires » qui surestiment l'approximation du $Tr_{60}$.
 
 On obtient donc une seconde banque de temps de réverbération par bande de fréquence : 
 
