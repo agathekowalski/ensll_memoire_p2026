@@ -3,7 +3,7 @@ layout: default
 title: acceuil 
 ---
 
-# Annexes audiovisuelles et numérique de mémoire
+# Annexes audiovisuelles et numériques de mémoire
 
 ## Espaces en ruines, expérience sonore d’un site archéologique
 
