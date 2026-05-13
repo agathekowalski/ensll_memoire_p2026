@@ -21,6 +21,8 @@ Le second est un extrait vocal d'une voix masculine :
   <source src="{{ '/mesures/speech.mp3' | relative_url }}" type="audio/mpeg">
 </audio>
 
+### Réponse impulsionnelle d'une mesure jugée pertinente
+
 On donne a présent les mêmes sons, convolués par la réponse impulsionnelle issue de la **mesure 2, jugée correcte** : 
 
 La batterie issue de la **convolution** : 
@@ -46,6 +48,8 @@ L'extrait vocal issu de la **mesure** sur site :
 </audio>
 
 On entend ici le **niveau très élevé de bruit ambiant**, qui a conduit à exclure certaines mesures, même après une opération de réduction de bruit. On entend tout de même que les deux signaux sont comparables. Une légère surestimation des bas médiums dans l'extrait issu de la convoltion pourra être corrigé au mixage par un outil de filtrage.
+
+### Réponse impulsionnelle d'une mesure écartée 
 
 Voici enfin les mêmes extraits convolués par la réponse impulsionnelle issue de la **mesure 8, jugée non pertinente** : 
 
