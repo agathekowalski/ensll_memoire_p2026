@@ -22,7 +22,7 @@ Le second est un extrait vocal d'une voix masculine :
   <source src="{{ '/mesures/speech.mp3' | relative_url }}" type="audio/mpeg">
 </audio>
 
-On donne a présent les mêmes sons, convolués par la réponse impulsionnelle issues de la **mesure 2, jugée correcte** : 
+On donne a présent les mêmes sons, convolués par la réponse impulsionnelle issue de la **mesure 2, jugée correcte** : 
 
 La batterie : 
 <audio controls>
@@ -34,7 +34,7 @@ L'extrait vocal :
   <source src="{{ '/mesures/speech_m2.mp3' | relative_url }}" type="audio/mpeg">
 </audio>
 
-Voici en enfin les mêmes extraits convolués par la réponse impulsionnelle issues de la **mesure 8, jugée non pertinente** : 
+Voici en enfin les mêmes extraits convolués par la réponse impulsionnelle issue de la **mesure 8, jugée non pertinente** : 
 
 La batterie : 
 <audio controls>
