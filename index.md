@@ -15,7 +15,7 @@ Les **annexes audiovisuelles et numériques** du mémoire sont à consulter grâ
 ### [I - Mesures acoustiques du théâtre d'Argentomagus (état actuel)](mesures/) 
 
 Dans cette première partie sont donnés à entendre des **exemples sonores de réponses impulsionnelles** mesurées convoluées par des sons anéchoïques. 
-Il ont permis de juger perceptivement la pertinence ou non de chaque mesure. 
+Ils ont permis de juger perceptivement la pertinence ou non de chaque mesure. 
 
 ### [II - Simulation acoustique du théâtre d’Argentomagus (état « antique »)](simulations/)
 
