@@ -26,4 +26,4 @@ des matériaux du modèle 3D du théâtre, ainsi que l'ensemble des **valeurs ob
 
 ### [III - Enjeux de spatialisation des sources sonores](spatialisation/)
 
-Ce lien contient des extraits sonores et visuels illustrant les enjeux de spatialisation sonores des sources dans l'espace virtuel, de l'écriture au rendu final. 
+Ce lien contient des extraits sonores et visuels illustrant les **enjeux de spatialisation des sources sonores** dans l'espace virtuel, de l'écriture au rendu final. 
