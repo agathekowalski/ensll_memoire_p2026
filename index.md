@@ -23,3 +23,5 @@ Ci-dessus sont commentés les **scripts _Python_** utilisés pour la calibration
 des matériaux du modèle 3D du théâtre, ainsi que l'ensemble des **valeurs obtenues**.
 
  Des **illustration visuelles et sonores** des réponses impulsionnelles simulées sont également consultables. 
+
+### [Enjeux de spatialisation des sources sonores](spatialisation/)
