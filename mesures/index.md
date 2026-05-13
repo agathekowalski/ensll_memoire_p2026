@@ -38,12 +38,12 @@ Voici en enfin les mêmes extraits convolués par la réponse impulsionnelle iss
 
 La batterie : 
 <audio controls>
-  <source src="{{ '/mesures/shortDrums_m2.mp3' | relative_url }}" type="audio/mpeg">
+  <source src="{{ '/mesures/shortDrums_m8.mp3' | relative_url }}" type="audio/mpeg">
 </audio>
 
 L'extrait vocal : 
 <audio controls>
-  <source src="{{ '/mesures/speech_m2.mp3' | relative_url }}" type="audio/mpeg">
+  <source src="{{ '/mesures/speech_m8.mp3' | relative_url }}" type="audio/mpeg">
 </audio>
 
 Des **artefacts numériques** sont audibles sur les transitoires, notamment dans l'extrait de batterie et les plausives de la voix masculines. 
