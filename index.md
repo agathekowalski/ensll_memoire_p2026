@@ -22,7 +22,7 @@ Ils ont permis de juger perceptivement la pertinence ou non de chaque mesure.
 Ci-dessus sont commentés les **scripts _Python_** utilisés pour la calibration des coefficients acoustiques
 des matériaux du modèle 3D du théâtre, ainsi que l'ensemble des **valeurs obtenues**.
 
- Des **illustration visuelles et sonores** des réponses impulsionnelles simulées sont également consultables. 
+ Des **illustrations visuelles et sonores** des réponses impulsionnelles simulées sont également consultables. 
 
 ### [III - Enjeux de spatialisation des sources sonores](spatialisation/)
 
