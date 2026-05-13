@@ -12,7 +12,7 @@ Un niveau de bruit de fond très élevé a toutefois imposé le rejet de certain
 
 Voici **deux extraits utilisés** pour juger la pertinence des réponses impulsionnelles obtenues. 
 
-Le premier est un petit extrait de batterie : 
+Le premier est un court extrait de batterie : 
 <audio controls>
   <source src="{{ '/mesures/shortDrums.mp3' | relative_url }}" type="audio/mpeg">
 </audio>
