@@ -9,7 +9,7 @@ title: acceuil
 
 **Création sonore immersive au théâtre antique d’Argentomagus**
 
-Les **annexes audiovisuelles et numériques** du mémoire sont à consulter grâce aux liens ci-dessous, classés par ordre d'apparition dans le mémoire. 
+Les **annexes audiovisuelles et numériques** du mémoire sont à consulter grâce aux liens ci-dessous. 
 
 
 ### [I - Mesures acoustiques du théâtre d'Argentomagus (état actuel)](mesures/) 
@@ -24,4 +24,6 @@ des matériaux du modèle 3D du théâtre, ainsi que l'ensemble des **valeurs ob
 
  Des **illustration visuelles et sonores** des réponses impulsionnelles simulées sont également consultables. 
 
-### [Enjeux de spatialisation des sources sonores](spatialisation/)
+### [III - Enjeux de spatialisation des sources sonores](spatialisation/)
+
+Ce lien contient des extraits sonores et visuels illustrant les enjeux de spatialisation sonores des sources dans l'espace virtuel, de l'écriture au rendu final. 
