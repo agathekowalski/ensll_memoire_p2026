@@ -6,11 +6,9 @@ title: Simulation acoustique
 # Simulation acoustique du théâtre d'Argentomagus 
 
 ## 1 - Calibrations des coefficients d'absorption et de diffusion des matériaux 
-Une campagne de mesure menée dans le théâtre analogue de Syracuse, permet de viser un temps
-de réverbération moyen pour le théâtre d'Argentomagus. 
+Une campagne de mesure menée dans le théâtre analogue de Syracuse, permet de viser un temps de réverbération moyen pour le théâtre d'Argentomagus. 
 
-L'estimation du volume du modèle 3D du théâtre et la surface occupée par chacun de ses matériaux
-est possible dans _Blender_ au moyen d'un script _Python_ : 
+L'estimation du volume du modèle 3D du théâtre et la surface occupée par chacun de ses matériaux est possible dans _Blender_ au moyen d'un script _Python_ : 
 
 ### Calcul du volume total du modèle (appelé _mesh_) : 
 
@@ -99,8 +97,7 @@ Audience : 2932.8210 m2
 
 ### Estimation du temps de réverbération moyen par bande de fréquences
 
-On calcule alors un temps de réverbération théorique du modèle 3D, en fonction des dimensions obtenues et des coefficients d'absorption
-appliqués aux matériaux. La formule de Eyring est incluse dans le logiciel _open-source_ _pyroomacoustics_, lui-même importé au début du script. 
+On calcule alors un temps de réverbération théorique du modèle 3D, en fonction des dimensions obtenues et des coefficients d'absorption appliqués aux matériaux. La formule de Eyring est incluse dans le logiciel _open-source_ _pyroomacoustics_, lui-même importé au début du script. 
 
 ```python
 import pyroomacoustics as pra 
@@ -141,8 +138,7 @@ for i, f in enumerate(frequencies) :
     eyring_syracuse = pra.rt60_eyring(S_total*(scaling_factor)**2,V_total*(scaling_factor)**3,a_coefficient[i],m[i],343)
     print(f, eyring_syracuse)
 ```
-Grâce au facteur multiplicateur de **1.4** appliqué compensant la différence de taille entre les théâtres d'Argentomagus et de Syracuse, on peut prévoir une surestimation ou non du temps de réverbération par rapport aux mesures de Syracuse. 
-On peut alors ajuster en fonction les coefficients de d'absorption et de diffusion des matériaux. 
+Grâce au facteur multiplicateur de **1.4** appliqué compensant la différence de taille entre les théâtres d'Argentomagus et de Syracuse, on peut prévoir une surestimation ou non du temps de réverbération par rapport aux mesures de Syracuse. On peut alors ajuster en fonction les coefficients de d'absorption et de diffusion des matériaux. 
 
 On obtient des premiers temps de réverbération théoriques en secondes, par bande de fréquences : 
 
@@ -156,10 +152,7 @@ On obtient des premiers temps de réverbération théoriques en secondes, par ba
 8000Hz 1.7690107569556643
 ```
 
-On trouve un temps de réverbération moyen de **0,96 s** entre 500 Hz et 1000 Hz. 
-Le temps cible issu des mesures du théâtre de Syracuse étant de 0,81~s, on augmente les coefficients d'absorption des matériaux majoritaires (ici la pierre poreuse et les gradins), d'après la méthode de calibration décrite en \ref{sub : simulations_limites_calibrations}. 
-De plus, les coefficients de diffusion sont relevés pour amoindrir la contribution
-de rayons « stationnaires » qui surestiment l'approximation du $Tr_{60}$.
+On trouve un temps de réverbération moyen de **0,96 s** entre 500 Hz et 1000 Hz. Le temps cible issu des mesures du théâtre de Syracuse étant de **0,81 s**, on augmente les coefficients d'absorption des matériaux majoritaires (ici la pierre poreuse et les gradins). De plus, les coefficients de diffusion sont relevés pour amoindrir la contribution de rayons « stationnaires » qui surestiment l'approximation du temps de réverbération.
 
 On obtient donc une seconde banque de temps de réverbération par bande de fréquence : 
 
@@ -173,16 +166,14 @@ On obtient donc une seconde banque de temps de réverbération par bande de fré
 8000Hz 1.4935438193729154
 ```
 
-Le temps de réverbération moyen de **0,84 s** calculé entre 500 Hz et 1000 Hz paraît plus cohérent
-en comparaison des mesures réalisées au théâtre de Syracuse. 
+Le temps de réverbération moyen de **0,84 s** calculé entre 500 Hz et 1000 Hz paraît plus cohérent en comparaison des mesures réalisées au théâtre de Syracuse. 
 
 
 ## 2 - Visualisation des réponses impulsionnelles obtenues 
 
-Voici une visualisation interactive des paramètres acoustiques issus d'une réponse impulsionnelle simulée dans le modèle 3D.
-Les différents indices sont décrits en Annexes A (Indices de mesure de l'acoustique d'une salle) du mémoire. 
+Voici une visualisation interactive des paramètres acoustiques issus d'une réponse impulsionnelle simulée dans le modèle 3D. Les différents indices sont décrits en Annexes A (Indices de mesure de l'acoustique d'une salle) du mémoire. 
 
-La simulation est effectuée avec 2 millions de rayons et une surface réceptrice d'un diamètre de 0,50 mètres. 
+La simulation est effectuée avec **2 millions de rayons** et une surface réceptrice d'un **diamètre de 0,50 mètres**. 
 
 <iframe
     src="{{ site.baseurl }}/interactive/RIR_config1_listener6_source6.html"
