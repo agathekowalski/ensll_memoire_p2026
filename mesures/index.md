@@ -23,15 +23,26 @@ Le second est un extrait vocal d'une voix masculine :
 
 On donne a présent les mêmes sons, convolués par la réponse impulsionnelle issue de la **mesure 2, jugée correcte** : 
 
-La batterie : 
+La batterie issue de la **convolution** : 
 <audio controls>
   <source src="{{ '/mesures/shortDrums_m2.mp3' | relative_url }}" type="audio/mpeg">
 </audio>
 
-L'extrait vocal : 
+La même extrait issu de la **mesure** : 
+<audio controls>
+  <source src="{{ '/mesures/shortDrums_m2_mesure.mp3' | relative_url }}" type="audio/mpeg">
+</audio>
+
+L'extrait vocal issu de la **convolution** : 
 <audio controls>
   <source src="{{ '/mesures/speech_m2.mp3' | relative_url }}" type="audio/mpeg">
 </audio>
+
+La même extrait issu de la **mesure** : 
+<audio controls>
+  <source src="{{ '/mesures/speech_m2_mesure.mp3' | relative_url }}" type="audio/mpeg">
+</audio>
+
 
 Voici en enfin les mêmes extraits convolués par la réponse impulsionnelle issue de la **mesure 8, jugée non pertinente** : 
 
