@@ -15,7 +15,7 @@ Voici le **plan au sol du déplacement d'Aphrodisius** (en vert), déterminé au
     alt="Plan au sol du déplacement des sources sonores dans la scène 4."
     style="width: 100%; max-width: 800px; height: auto; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
 
-Voici à présent le une courte vidéo associant le **texte**, la **position de la source** sonore et celle du specteur dans l'espace modélisé et le **rendu sonore final en binaural** de cette même scène : 
+Voici à présent le une courte vidéo associant le **texte**, la **position de la source** sonore et celle du spectateur dans l'espace modélisé, et le **rendu sonore final en binaural** de cette même scène : 
 
 <video
     controls
