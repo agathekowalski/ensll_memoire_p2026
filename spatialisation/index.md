@@ -5,7 +5,12 @@ title: Spatialisation des sources
 ---
 # Enjeux de spatialisation des sources sonores de la création sonore
 
-## 1 - Scène 4 : Aphrodisius teste l'acoustique du théâtre 
+## 1 - Scène 4 : Aphrodisius « teste » l'acoustique du théâtre 
+
+Dans cette scène, Quintus et Aphrodisius sont au milieu du théâtre, et ce dernier entreprend de « tester » son acoustique : il frappe des mains et hèle des interjections. 
+Voici le plan au sol du déplacement d'Aphrodisius (en vert), déterminé au moment de l'écriture de la fiction : 
+
+
 
 <video
     controls
