@@ -9,7 +9,7 @@ title: Mesures acoustiques
 
 Des mesures acoustiques ont été menées sur les vestiges du théâtre d'Argentomagus pour tenter d'approcher la réponse impulsionnelle du site en différents points. Un niveau de bruit de fond très élevé a toutefois imposé le rejet de certaines mesures pour lesquelles des artefacts temporels audibles apparaissaient après la déconvolution. 
 
-Voici **deux extraits utilisés** pour juger la pertinence des réponses impulsionnelles obtenues. 
+Voici **deux extraits utilisés** pour juger la pertinence des réponses impulsionnelles obtenues (enregistrés en salle anéchoïque). 
 
 Le premier est un court extrait de batterie : 
 <audio controls>
@@ -28,23 +28,27 @@ La batterie issue de la **convolution** :
   <source src="{{ '/mesures/shortDrums_m2.mp3' | relative_url }}" type="audio/mpeg">
 </audio>
 
-La même extrait issu de la **mesure** : 
-<audio controls>
-  <source src="{{ '/mesures/shortDrums_m2_mesure.mp3' | relative_url }}" type="audio/mpeg">
-</audio>
-
 L'extrait vocal issu de la **convolution** : 
 <audio controls>
   <source src="{{ '/mesures/speech_m2.mp3' | relative_url }}" type="audio/mpeg">
 </audio>
 
-La même extrait issu de la **mesure** : 
+On peut alors comparer ces extraits convolués par les mêmes sons, **enregistrés sur site** à la suite des trois balayages sinusoïdaux. 
+En comparant les extraits convolués et mesurés, on peut juger les réponses impulsionnelles obtenues. 
+
+L'extrait de batterie issu de la **mesure** sur site : 
+<audio controls>
+  <source src="{{ '/mesures/shortDrums_m2_mesure.mp3' | relative_url }}" type="audio/mpeg">
+</audio>
+
+L'extrait vocal issu de la **mesure** sur site : 
 <audio controls>
   <source src="{{ '/mesures/speech_m2_mesure.mp3' | relative_url }}" type="audio/mpeg">
 </audio>
 
+On entend ici le **niveau très élevé de bruit ambiant**, qui a conduit à exclure certaines mesures. On entend tout de même que les deux signaux sont comparables. Une légère surestimation des bas médiums dans l'extrait issu de la convoltion pourra être corrigé au mixage par un outil de filtrage.
 
-Voici en enfin les mêmes extraits convolués par la réponse impulsionnelle issue de la **mesure 8, jugée non pertinente** : 
+Voici enfin les mêmes extraits convolués par la réponse impulsionnelle issue de la **mesure 8, jugée non pertinente** : 
 
 La batterie : 
 <audio controls>
