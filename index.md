@@ -5,7 +5,7 @@ title: acceuil
 
 # Annexes audiovisuelles et numériques de mémoire
 
-## Espaces en ruines, expérience sonore d’un site archéologique
+## La ruine antique en réalité augmentée audio
 
 **Création sonore immersive au théâtre antique d’Argentomagus**
 
