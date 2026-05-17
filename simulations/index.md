@@ -176,7 +176,7 @@ Voici une visualisation interactive des paramètres acoustiques issus d'une rép
 La simulation est effectuée avec **2 millions de rayons** et une surface réceptrice d'un **diamètre de 0,50 mètres**. 
 
 <iframe
-    src="{{ site.baseurl }}/interactive/RIR_config1_listener6_source6.html"
+    src="interactive/RIR_config1_listener6_source6.html"
     width="100%"
     height="800px"
     width="1000px"
@@ -189,7 +189,7 @@ On montre sur l'image ci-dessous les positions de la _source_ et du _listener_ c
 
 
 <img
-    src="{{ site.baseurl }}/assets/images/position_S_R_1.1.png"
+    src="assets/images/position_S_R_1.1.png"
     alt="Positions de la _source_ et du _listener_ dans le modèle 3D."
     style="width: 100%; max-width: 800px; height: auto; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
 
