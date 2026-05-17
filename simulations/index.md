@@ -4,7 +4,7 @@ title: Simulation acoustique
 
 ---
 # Simulation acoustique du théâtre d'Argentomagus 
-
+ 
 ## 1 - Calibrations des coefficients d'absorption et de diffusion des matériaux 
 Une campagne de mesure menée dans le théâtre analogue de Syracuse, permet de viser un temps de réverbération moyen pour le théâtre d'Argentomagus. 
 
