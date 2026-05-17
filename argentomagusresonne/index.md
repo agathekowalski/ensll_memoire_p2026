@@ -3,5 +3,4 @@ layout: default
 title: Argentomagus en résonance
 
 ---
-# Conception du dispositif technique de la balade sonore
-
+# *Argentomagus en résonance* : médiatisation et accueil des spectateurs
