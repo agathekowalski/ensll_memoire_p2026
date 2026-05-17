@@ -13,12 +13,12 @@ Voici **deux extraits utilisés** pour juger la pertinence des réponses impulsi
 
 Le premier est un court extrait de batterie : 
 <audio controls>
-  <source src="{{ '/mesures/shortDrums.mp3' | relative_url }}" type="audio/mpeg">
+  <source src="{{ 'mesures/shortDrums.mp3' | relative_url }}" type="audio/mpeg">
 </audio>
 
 Le second est un extrait vocal d'une voix masculine : 
 <audio controls>
-  <source src="{{ '/mesures/speech.mp3' | relative_url }}" type="audio/mpeg">
+  <source src="{{ 'mesures/speech.mp3' }}" type="audio/mpeg">
 </audio>
 
 ### Réponse impulsionnelle d'une mesure jugée pertinente
