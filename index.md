@@ -26,4 +26,14 @@ des matériaux du modèle 3D du théâtre, ainsi que l'ensemble des **valeurs ob
 
 ### [III - Enjeux de spatialisation des sources sonores](spatialisation/)
 
-Ce lien contient des extraits sonores et visuels illustrant les **enjeux de spatialisation des sources sonores** dans l'espace virtuel, de l'écriture au rendu final. 
+Ce lien contient des extraits sonores et visuels illustrant les **enjeux de spatialisation des sources sonores** dans l'espace virtuel de l'écriture au rendu final, en s'appuyant sur certaines scènes. 
+
+### [IV - Conception du dipositif technique de l'expérience sonore](dispositif/)
+
+Tests comparés de géolocalisation entre les 2 téléphones. 
+
+Capture d'écran vidéo de l'application. 
+
+### [V - *Argentomagus en résonance* : médiatisation et accueil des spectateurs](argentomagusresonne/)
+
+
