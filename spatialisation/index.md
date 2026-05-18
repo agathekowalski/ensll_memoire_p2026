@@ -3,7 +3,7 @@ layout: default
 title: Spatialisation des sources
 
 ---
-# Enjeux de spatialisation des sources sonores de la création sonore
+# Enjeux de spatialisation des sources sonores de la création
 
 ## 1 - Scène 4 : Aphrodisius « teste » l'acoustique du théâtre 
 
