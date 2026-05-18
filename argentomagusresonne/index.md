@@ -57,4 +57,28 @@ Quelques mois avant la venue des lycéens, une présentation du projet au lycée
 
 ## Médiatisation de l'évènement 
 
-Parler de la presse
+### Article de presse
+
+Presse spécialisée son, article de SONOMag du mois d'avril 2026 : 
+
+<div style="width: 100%; height: 600px; border: 1px solid #ccc; border-radius: 5px; margin: 1rem 0;">
+    <embed
+        src="{{ site.baseurl }}/assets/pdfs/260410_SONOMag.pdf"
+        type="application/pdf"
+        width="100%"
+        height="100%"
+        style="border: none;">
+</div>
+
+Presse locale (3 articles dans la Nouvelle République et 1 dans l'Echo du Berry). Voici le premier article donné dans la Nouvelle République du 11 avril 2026. 
+
+<div style="width: 100%; height: 600px; border: 1px solid #ccc; border-radius: 5px; margin: 1rem 0;">
+    <embed
+        src="{{ site.baseurl }}/assets/pdfs/260411_NR_argentomagus.PDF"
+        type="application/pdf"
+        width="100%"
+        height="100%"
+        style="border: none;">
+</div>
+
+Presse locale numérique. Voici un des article paru dans *Le Petit Argentonnais*, journal web du sud du département :
