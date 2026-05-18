@@ -75,7 +75,7 @@ Plusieurs articles dans la presse locale écrite ont donné de la visibilité au
 
 <div style="width: 100%; height: 600px; border: 1px solid #ccc; border-radius: 5px; margin: 1rem 0;">
     <embed
-        src="{{ site.baseurl }}/assets/pdfs/260411_NR_argentomagus.PDF"
+        src="{{ site.baseurl }}/assets/pdfs/260411_NR_argentomagus.pdf"
         type="application/pdf"
         width="100%"
         height="100%"
