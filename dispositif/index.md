@@ -3,21 +3,7 @@ layout: default
 title: Dispositif technique
 
 ---
-# Conception du dispositif technique de la balade sonore
-
-<div style="width: 100%; max-width: 800px; margin: 0 auto;">
-    <iframe
-        src="https://exemple.com](https://arsnomadis-editor-git-dev-ars-nomadis-projects.vercel.app/soundwalks/new-project"
-        width="100%"
-        height="600px"
-        frameborder="0"
-        style="border: none; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);">
-    </iframe>
-    <p style="text-align: center; font-size: 0.9em; color: #666;">
-        Si le contenu ne s'affiche pas, <a href="https://arsnomadis-editor-git-dev-ars-nomadis-projects.vercel.app/soundwalks/new-project" target="_blank">clique ici</a>.
-    </p>
-</div>
-<br>
+# Conception du dispositif technique de l'expérience sonore
 
 ## Comparaison des performances de deux modèles de téléphones
 
