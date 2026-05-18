@@ -37,5 +37,4 @@ Capture d'écran vidéo de l'application.
 ### [V - *Argentomagus en résonance* : médiatisation et accueil des spectateurs](argentomagusresonne/)
 
 Le lien ci-dessus regroupe les **documents de présentation** pour vulgariser à différentes échelles l'expérience sonore proposée. 
-Quelques **articles de presse** et visuels de **communication** concernant l'évènement sont également consultables. 
-
+Quelques **articles de presse** et visuels de **communication** concernant l'évènement sont également regroupés.
