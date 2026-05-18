@@ -83,4 +83,4 @@ Plusieurs articles dans la presse locale écrite ont donné de la visibilité au
 </div>
 <br>
 
-Enfin, voici un des article paru dans *Le Petit Argentonnais*, journal numérique du sud du département : <a href="[https://www.google.fr](https://lepetitargentonnais.fr/a-argentomagus-une-etudiante-reconstitue-lacoustique-du-theatre-antique-disparu-grace-a-une-experience-immersive-inedite/)" target="_blank" rel="noopener noreferrer">article du 27 février 2026</a>.
+Enfin, voici un des article paru dans *Le Petit Argentonnais*, journal numérique du sud du département : <a href="https://lepetitargentonnais.fr/a-argentomagus-une-etudiante-reconstitue-lacoustique-du-theatre-antique-disparu-grace-a-une-experience-immersive-inedite" target="_blank" rel="noopener noreferrer">article du 27 février 2026</a>.
