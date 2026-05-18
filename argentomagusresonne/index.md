@@ -19,5 +19,7 @@ Permet *a posteriori* de résumer l'évènement en quelques points visuels.
         width="100%"
         height="100%"
         style="border: none;">
-    <p>Ton navigateur ne supporte pas l'affichage des PDF ? <a href="{{ site.baseurl }}/assets/pdfs/ton-fichier.pdf">Télécharger le PDF</a>.</p>
+    <p>Si votre navigateur ne supporte pas l'affichage des PDF,<a href="{{ site.baseurl }}/assets/pdfs/ton-fichier.pdf">cliquez ici pour télécharger le dossier de presse</a>.</p>
 </div>
+
+Un dossier détaillant les étapes techniques a ensuite été réalisé à destination de la presse spécialisée pour 
