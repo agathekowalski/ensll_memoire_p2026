@@ -5,7 +5,7 @@ title: Argentomagus en résonance
 ---
 # *Argentomagus en résonance* : médiatisation et accueil des spectateurs
 
-## Médiation et vulgarisation de l'expérience sonore 
+## Vulgarisation de l'expérience sonore 
 
 ### Dossier de presse
 
@@ -52,4 +52,6 @@ Quelques mois avant la venue des lycéens, une présentation du projet au lycée
 </div>
 
 
-### Articles de presse
+## Médiatisation de l'évènement 
+
+Parler de la presse
