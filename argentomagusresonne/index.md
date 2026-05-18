@@ -20,10 +20,8 @@ Permet *a posteriori* de résumer l'évènement en quelques points visuels.
         width="100%"
         height="100%"
         style="border: none;">
-    <p>Si votre navigateur ne supporte pas l'affichage des PDF,<a href="{{ site.baseurl }}/assets/pdfs/ton-fichier.pdf"> cliquez ici pour télécharger le dossier de presse</a>.</p>
 </div>
 
-<br><br>
 
 ### Dossier technique
 
@@ -36,7 +34,22 @@ Un dossier détaillant les étapes techniques a ensuite été réalisé à desti
         width="100%"
         height="100%"
         style="border: none;">
-    <p>Si votre navigateur ne supporte pas l'affichage des PDF,<a href="{{ site.baseurl }}/assets/pdfs/ton-fichier.pdf"> cliquez ici pour télécharger le dossier technique</a>.</p>
 </div>
 
-<br><br>
+### Dossier scolaire
+
+Une activité mêlant la mesure de paramètres acoustiques du site et l'histoire sonore des théâtres a enfin été proposé aux élèves des classes d'option théâtre du lycée Jean Giraudoux de Châteauroux. Elle a été conçue par une professeure de Sciences Physiques sur la base sur des notions approchées dans la spécialité.
+
+Quelques mois avant la venue des lycéens, une présentation du projet au lycée avait permis une première rencontre.
+
+<div style="width: 100%; height: 600px; border: 1px solid #ccc; border-radius: 5px; margin: 1rem 0;">
+    <embed
+        src="{{ site.baseurl }}/assets/pdfs/dossier_scolaire_argentomagus.pdf"
+        type="application/pdf"
+        width="100%"
+        height="100%"
+        style="border: none;">
+</div>
+
+
+### Articles de presse
