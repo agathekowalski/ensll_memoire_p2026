@@ -71,7 +71,7 @@ Presse spécialisée son, article de ***SONOMag*** du mois d'avril 2026 :
 </div>
 <br>
 
-Plusieurs articles dans la presse locale écrite ont donné de la visibilité au projet. Voici l'un d'eux, paru dans ***La Nouvelle République*** du 11 avril 2026. 
+Plusieurs articles dans la presse locale écrite ont donné de la visibilité au projet. Voici l'un d'eux, paru dans ***La Nouvelle République*** du 11 avril 2026 :
 
 <div style="width: 100%; height: 600px; border: 1px solid #ccc; border-radius: 5px; margin: 1rem 0;">
     <embed
@@ -81,5 +81,6 @@ Plusieurs articles dans la presse locale écrite ont donné de la visibilité au
         height="100%"
         style="border: none;">
 </div>
+<br>
 
 Enfin, voici un des articles parus dans ***Le Petit Argentonnais***, journal numérique du sud du département : <a href="https://lepetitargentonnais.fr/a-argentomagus-une-etudiante-reconstitue-lacoustique-du-theatre-antique-disparu-grace-a-une-experience-immersive-inedite" target="_blank" rel="noopener noreferrer">article du 27 février 2026</a>.
