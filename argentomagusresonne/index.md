@@ -10,11 +10,11 @@ title: Argentomagus en résonance
 ### Dossier de presse
 Expliquer le but du dossier de presse => faire comprendre le projet pour partenaires presse / institutions / musées
 
-Permet *a posteriori* de résumer l'évènement en quelques points. 
+Permet *a posteriori* de résumer l'évènement en quelques points visuels. 
 
 <div style="width: 100%; height: 600px; border: 1px solid #ccc; border-radius: 5px; margin: 1rem 0;">
     <embed
-        src="{{ site.baseurl }}/assets/pdfs/dossier_de_presse.pdf"
+        src="{{ site.baseurl }}/assets/pdfs/dossier_presse_argentomagus_en_resonance.pdf"
         type="application/pdf"
         width="100%"
         height="100%"
