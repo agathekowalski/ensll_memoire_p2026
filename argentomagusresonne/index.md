@@ -7,6 +7,8 @@ title: Argentomagus en résonance
 
 ## Vulgarisation de l'expérience sonore 
 
+Plusieurs documents ont permis de présenter et expliquer le projet à un public varié. Différents niveaux de vulgarisation technique l'ont ainsi rendu accessible à chacun.
+
 ### Dossier de presse
 
 Expliquer le but du dossier de presse => faire comprendre le projet pour partenaires presse / institutions / musées
@@ -51,6 +53,7 @@ Quelques mois avant la venue des lycéens, une présentation du projet au lycée
         style="border: none;">
 </div>
 
+<br>
 
 ## Médiatisation de l'évènement 
 
