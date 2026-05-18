@@ -29,7 +29,7 @@ Un dossier détaillant les étapes techniques a ensuite été réalisé à desti
 
 <div style="width: 100%; height: 600px; border: 1px solid #ccc; border-radius: 5px; margin: 1rem 0;">
     <embed
-        src="{{ site.baseurl }}/assets/pdfs/dossier_presse_argentomagus_en_resonance.pdf"
+        src="{{ site.baseurl }}/assets/pdfs/dossier_technique_argentomagus_en_resonance.pdf"
         type="application/pdf"
         width="100%"
         height="100%"
