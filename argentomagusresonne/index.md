@@ -23,6 +23,8 @@ Permet *a posteriori* de résumer l'évènement en quelques points visuels.
     <p>Si votre navigateur ne supporte pas l'affichage des PDF,<a href="{{ site.baseurl }}/assets/pdfs/ton-fichier.pdf"> cliquez ici pour télécharger le dossier de presse</a>.</p>
 </div>
 
+<br><br>
+
 ### Dossier technique
 
 Un dossier détaillant les étapes techniques a ensuite été réalisé à destination de la presse spécialisée et des partenaires professionnels. 
@@ -36,3 +38,5 @@ Un dossier détaillant les étapes techniques a ensuite été réalisé à desti
         style="border: none;">
     <p>Si votre navigateur ne supporte pas l'affichage des PDF,<a href="{{ site.baseurl }}/assets/pdfs/ton-fichier.pdf"> cliquez ici pour télécharger le dossier technique</a>.</p>
 </div>
+
+<br><br>
