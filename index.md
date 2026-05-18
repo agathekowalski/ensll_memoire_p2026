@@ -30,12 +30,12 @@ Ce lien contient des extraits sonores et visuels illustrant les **enjeux de spat
 
 ### [IV - Conception du dipositif technique de l'expérience sonore](dispositif/)
 
-Tests comparés de géolocalisation entre les 2 téléphones. 
+Tests comparés de **géolocalisation** entre les 2 téléphones. 
 
 Capture d'écran vidéo de l'application. 
 
 ### [V - *Argentomagus en résonance* : médiatisation et accueil des spectateurs](argentomagusresonne/)
 
-Le lien ci-dessus regroupe les documents de présentation pour vulgariser à différentes échelles l'expérience sonore proposée. 
-Quelques articles de presse concernant l'évènement sont également consultables. 
+Le lien ci-dessus regroupe les **documents de présentation** pour vulgariser à différentes échelles l'expérience sonore proposée. 
+Quelques **articles de presse** et visuels de **communication** concernant l'évènement sont également consultables. 
 
