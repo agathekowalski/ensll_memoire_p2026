@@ -57,9 +57,9 @@ Quelques mois avant la venue des lycéens, une présentation du projet au lycée
 
 ## Médiatisation de l'évènement 
 
-### Article de presse
+### Articles de presse
 
-Presse spécialisée son, article de SONOMag du mois d'avril 2026 : 
+Presse spécialisée son, article de **SONOMag** du mois d'avril 2026 : 
 
 <div style="width: 100%; height: 600px; border: 1px solid #ccc; border-radius: 5px; margin: 1rem 0;">
     <embed
@@ -69,8 +69,9 @@ Presse spécialisée son, article de SONOMag du mois d'avril 2026 :
         height="100%"
         style="border: none;">
 </div>
+<br>
 
-Presse locale (3 articles dans la Nouvelle République et 1 dans l'Echo du Berry). Voici le premier article donné dans la Nouvelle République du 11 avril 2026. 
+Plusieurs articles dans la presse locale écrite ont donné de la visibilité au projet. Voici l'un d'eux, paru dans **La Nouvelle République** du 11 avril 2026. 
 
 <div style="width: 100%; height: 600px; border: 1px solid #ccc; border-radius: 5px; margin: 1rem 0;">
     <embed
@@ -80,5 +81,6 @@ Presse locale (3 articles dans la Nouvelle République et 1 dans l'Echo du Berry
         height="100%"
         style="border: none;">
 </div>
+<br>
 
-Presse locale numérique. Voici un des article paru dans *Le Petit Argentonnais*, journal web du sud du département :
+Enfin, voici un des article paru dans *Le Petit Argentonnais*, journal numérique du sud du département : [article du 27 février 2026]([https://www.google.fr](https://lepetitargentonnais.fr/a-argentomagus-une-etudiante-reconstitue-lacoustique-du-theatre-antique-disparu-grace-a-une-experience-immersive-inedite/)). 
