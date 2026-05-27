@@ -7,7 +7,9 @@ title: Spatialisation et auralisation des sources
 
 ## 1 - Scène 1 : Placement de la voix de Françoise dans la sphère sonore 
 
-
+<audio controls>
+  <source src="{{ '/mesures/shortDrums_m2_mesure.mp3' | relative_url }}" type="audio/mpeg">
+</audio>
 
 ## 3 - Scène 4 : Aphrodisius « teste » l'acoustique du théâtre 
 
