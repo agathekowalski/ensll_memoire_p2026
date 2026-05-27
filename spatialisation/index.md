@@ -5,13 +5,20 @@ title: Spatialisation et auralisation des sources
 ---
 # Enjeux de spatialisation et d'auralisation des sources sonores
 
-## 1 - Scène 1 : Placement de la voix de Françoise dans la sphère sonore 
+## 1 - Zone 1 : Placement de la voix de Françoise dans la sphère sonore 
 
 <audio controls>
-  <source src="{{ '/mesures/shortDrums_m2_mesure.mp3' | relative_url }}" type="audio/mpeg">
+  <source src="{{ '/assets/sons/zone1.mp3' | relative_url }}" type="audio/mpeg">
 </audio>
 
-## 3 - Scène 4 : Aphrodisius « teste » l'acoustique du théâtre 
+## 2 - Zone 3 : Simulation de l'acoustique du couloir
+
+<audio controls>
+  <source src="{{ '/assets/sons/zoneCouloir.mp3' | relative_url }}" type="audio/mpeg">
+</audio>
+
+
+## 3 - Zone 4 : Aphrodisius « teste » l'acoustique du théâtre 
 
 Dans cette scène, Quintus et Aphrodisius sont au milieu du théâtre, et ce dernier entreprend de « tester » son acoustique : il frappe des mains et hèle des interjections. 
 Voici le **plan au sol du déplacement d'Aphrodisius** (en vert), déterminé au moment de l'écriture de la fiction : 
@@ -29,3 +36,15 @@ Voici à présent le une courte vidéo associant le **texte**, la **position de 
     style="border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin: 1rem 0;">
     <source src="{{ site.baseurl }}/assets/videos/video_sc4.mp4" type="video/mp4">
 </video>
+
+## 4 - Zone 7 : Confession d'Aphrodisius dans l'orchestre
+
+<audio controls>
+  <source src="{{ '/assets/sons/zone7.mp3' | relative_url }}" type="audio/mpeg">
+</audio>
+
+## 5 - Zone 9 : Spectacle sur la scène 
+
+<audio controls>
+  <source src="{{ '/assets/sons/zone9.mp3' | relative_url }}" type="audio/mpeg">
+</audio>
