@@ -152,7 +152,7 @@ On obtient des premiers temps de réverbération théoriques en secondes, par ba
 8000Hz 1.7690107569556643
 ```
 
-On trouve un temps de réverbération moyen de **0,96 s** entre 500 Hz et 1000 Hz. Le temps cible issu des mesures du théâtre de Syracuse étant de **0,81 s**, on augmente les coefficients d'absorption des matériaux majoritaires (ici la pierre poreuse et les gradins). De plus, les coefficients de diffusion sont relevés pour amoindrir la contribution de rayons « stationnaires » qui surestiment l'approximation du temps de réverbération.
+On trouve un temps de réverbération moyen de **0,96s** entre 500 Hz et 1000 Hz. Le temps cible issu des mesures du théâtre de Syracuse étant de **0,81s**, on augmente les coefficients d'absorption des matériaux majoritaires (ici la pierre poreuse et les gradins). De plus, les coefficients de diffusion sont relevés pour amoindrir la contribution de rayons « stationnaires » qui surestiment l'approximation du temps de réverbération.
 
 On obtient donc une seconde banque de temps de réverbération par bande de fréquence : 
 
@@ -169,9 +169,11 @@ On obtient donc une seconde banque de temps de réverbération par bande de fré
 Le temps de réverbération moyen de **0,84 s** calculé entre 500 Hz et 1000 Hz paraît plus cohérent en comparaison des mesures réalisées au théâtre de Syracuse. 
 
 
-## 2 - Visualisation des réponses impulsionnelles obtenues 
+## 2 - Visualisation d'une réponse impulsionnelle obtenue
 
-Voici une visualisation interactive des paramètres acoustiques issus d'une réponse impulsionnelle simulée dans le modèle 3D. Les différents indices sont décrits en Annexes A (Indices de mesure de l'acoustique d'une salle) du mémoire. 
+Voici une visualisation interactive des paramètres acoustiques issus d'une réponse impulsionnelle simulée dans le modèle 3D.
+On choisit la simulation dont le temps de réverbération est le plus proche de la moyenne obtenue (ici de **0.86s**.
+Les différents indices sont décrits en Annexes A (Indices de mesure de l'acoustique d'une salle) du mémoire. 
 
 La simulation est effectuée avec **2 millions de rayons** et une surface réceptrice d'un **diamètre de 0,50 mètres**. 
 
@@ -185,13 +187,16 @@ La simulation est effectuée avec **2 millions de rayons** et une surface récep
     </iframe>
 </div>
 
-On montre sur l'image ci-dessous les positions de la _source_ et du _listener_ correspondantes : 
+On montre sur l'image ci-dessous les positions de source et de récepteur correspondantes : 
 
 
 <img
     src="{{ site.baseurl }}/assets/images/position_S_R.png"
     alt="Positions de la _source_ et du _listener_ dans le modèle 3D."
     style="width: 100%; max-width: 800px; height: auto; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+
+Voici à présent un extrait audio de cette simulation convoluée avec un son de voix puis avec un extrait de la balade sonore : 
+
 
 
 
