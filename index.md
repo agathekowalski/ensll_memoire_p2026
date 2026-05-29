@@ -30,9 +30,10 @@ Ce lien contient des extraits sonores et visuels illustrant les **enjeux de spat
 
 ### [IV - Conception du dipositif technique de l'expérience sonore](dispositif/)
 
-Tests comparés de **géolocalisation** entre les 2 téléphones. 
+Cette section illustre en vidéo le test comparant la **géolocalisation** entre les téléphones *Motorola e15* et *Redmi Xiaomi A5*. 
 
-Capture d'écran vidéo de l'application. 
+Un enregistrement d'écran de l'application mobile *Argentomagus en résonance* est également proposé.
+
 
 ### [V - *Argentomagus en résonance* : détails des réponses qualitatives](argentomagusresonne/)
 
