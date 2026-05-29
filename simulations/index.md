@@ -187,7 +187,7 @@ La simulation est effectuée avec **2 millions de rayons** et une surface récep
     </iframe>
 </div>
 
-On montre sur l' image ci-dessous les positions de source et de récepteur correspondantes dans le modèle : 
+On montre sur l'image ci-dessous les positions de source et de récepteur correspondantes dans le modèle : 
 
 <img
     src="{{ site.baseurl }}/assets/images/position_S_R.png"
@@ -195,7 +195,8 @@ On montre sur l' image ci-dessous les positions de source et de récepteur corre
     style="width: 100%; height: 100%; max-width: 800px;border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
 
 
-Voici à présent un **extrait audio** de cette réponse impulsionnelle convoluée avec un son de voix puis avec un extrait de la balade sonore : 
+Voici à présent un **extrait audio** de cette réponse impulsionnelle convoluée avec un son de voix puis avec un extrait de la balade sonore.
+La convolution est réalisée grâce au *plug-in AmbiVerb* de *Noise Makers*. La scène ambisonique est ensuite binauralisée par le *plug-in AmbiHead*.
 
 <audio controls>
   <source src="{{ site.baseurl }}/assets/sons/exemple_conv_IR.mp3" type="audio/mpeg">
@@ -236,7 +237,7 @@ On retrouve une réflexion précoce sur le mur de scène et l'orchestre.
     <source src="{{ site.baseurl }}/assets/videos/visu2.mp4" type="video/mp4">
 </video>
 
-Les réflexions provenant des côtés de la *cavea* sont entendues peu après, ce qui semble cohérent par rapport à la vidéo.
+Les réflexions provenant des côtés de la *cavea* sont entendues très peu après, ce qui semble cohérent par rapport à la vidéo.
 
 Voici enfin les graphiques de la réponse impulsionnelle et de la courbe de décroissance correspondantes : 
 
@@ -249,3 +250,8 @@ Voici enfin les graphiques de la réponse impulsionnelle et de la courbe de déc
         style="border: none;">
     </iframe>
 </div>
+
+On remarque que le temps de décroissance est bien plus petit que précedemment : l'énergie des réflexions décroît de 10 dB
+plus rapidement. 
+On entend que la réflexion provenant du côté de la *cavea* arrive légèrement plus tard dans le premier exemple que dans cette seconde proposition.
+Des réflexions latérales plus tardives favoriserait la sensation d'enveloppement de l'auditeur (décrite en Annexe A du mémoire).
