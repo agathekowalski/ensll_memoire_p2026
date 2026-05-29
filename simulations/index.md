@@ -203,5 +203,47 @@ Voici à présent un **extrait audio** de cette réponse impulsionnelle convolu�
 
 ## 3 - Cartographie des réflexions dans le modèle
 
+Voici enfin une vidéo cartographiant les réflexions en abisonique dans le modèle 3D, pour les positions précédentes.
 
+Ell est générée grâce aux outils internes de l'entreprise *Noise Makers* et permet de visualiser la provenance de la réflexion entendue, ici principalement sur
+la *cavea* inférieure.
 
+<video
+    controls
+    width="100%"
+    style="border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin: 1rem 0;">
+    <source src="{{ site.baseurl }}/assets/videos/simu1.mp4" type="video/mp4">
+</video>
+
+<br>
+
+Voici l'emplacement d'un second couple source/récepteur dans l'espace modélisé :
+
+<img
+    src="{{ site.baseurl }}/assets/images/position_S_R_2.png"
+    alt="Positions de la _source_ et du _listener_ dans le modèle 3D."
+    style="width: 100%; max-width: 800px; height: auto; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+
+De la même manière, on peut visualiser la position des premières réflexions.
+On retrouve une réflexion précoce sur le mur de scène et l'orchestre.
+
+<video
+    controls
+    width="100%"
+    style="border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin: 1rem 0;">
+    <source src="{{ site.baseurl }}/assets/videos/simu2.mp4" type="video/mp4">
+</video>
+
+Les réflexions provenant des côtés de la *cavea* sont entendues peu après, ce qui semble cohérent par rapport à la vidéo.
+
+Voici enfin les graphiques de la réponse impulsionnelles et de la courbe de décroissance : 
+
+<div style="width: 1200px; height: 800px; margin: 1rem 0; border: 1px solid #eee; border-radius: 5px;">
+    <iframe
+        src="{{ site.baseurl }}/assets/interactive/RIR_config1_listener1_source1.html"
+        width="100%"
+        height="100%"
+        frameborder="0"
+        style="border: none;">
+    </iframe>
+</div>
