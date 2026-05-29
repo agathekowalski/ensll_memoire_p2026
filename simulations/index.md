@@ -176,7 +176,13 @@ Voici une visualisation interactive des paramètres acoustiques issus d'une rép
 La simulation est effectuée avec **2 millions de rayons** et une surface réceptrice d'un **diamètre de 0,50 mètres**. 
 
 <div style="width: 1200px; height: 800px; margin: 1rem 0; border: 1px solid #eee; border-radius: 5px;">
-<iframe src="https://argentomagusresonne.fr/assets/interactive/RIR_config1_listener3_source1.html" width="100%" height="100%" frameborder="0" style="border: none;"></iframe>
+    <iframe
+        src="{{ site.baseurl }}/assets/interactive/RIR_config1_listener3_source1.html"
+        width="100%"
+        height="100%"
+        frameborder="0"
+        style="border: none;">
+    </iframe>
 </div>
 
 On montre sur l'image ci-dessous les positions de la _source_ et du _listener_ correspondantes : 
