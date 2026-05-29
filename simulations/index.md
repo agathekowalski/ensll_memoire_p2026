@@ -181,7 +181,7 @@ La simulation est effectuée avec **2 millions de rayons** et une surface récep
     height="800px"
     width="1000px"
     frameborder="0"
-    style="border: none; border-radius: 5px; margin: 1rem 0;">
+    style="border: none; border-radius: 5px; margin: 1rem 0;"> 
 </iframe>
 
 
