@@ -84,3 +84,18 @@ Plusieurs articles dans la presse locale écrite ont donné de la visibilité au
 <br>
 
 Enfin, voici un des articles parus dans ***Le Petit Argentonnais***, journal numérique du sud du département : <a href="https://lepetitargentonnais.fr/a-argentomagus-une-etudiante-reconstitue-lacoustique-du-theatre-antique-disparu-grace-a-une-experience-immersive-inedite" target="_blank" rel="noopener noreferrer">article du 27 février 2026</a>.
+
+
+## Analyses qualitatives 
+
+<div style="width: 100%; height: 500px; margin: 1rem 0;">
+    <iframe
+        src="[https://docs.google.com/spreadsheets/d/TON_ID_FEUILLE/pubhtml?widget=true&amp;headers=false](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyz2452z-Q6jYNvbfrgbDkx96JTaDu28-PUMs63-v9g-yoI2Oe7Vp65zDHw913KLze26vChlGw2KL7/pubhtml)"
+        width="100%"
+        height="100%"
+        frameborder="0"
+        style="border: none; border-radius: 5px;">
+    </iframe>
+</div>
+
+
