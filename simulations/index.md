@@ -195,7 +195,7 @@ On montre sur l'image ci-dessous les positions de source et de récepteur corres
     alt="Positions de la _source_ et du _listener_ dans le modèle 3D."
     style="width: 100%; max-width: 800px; height: auto; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
 
-Voici à présent un extrait audio de cette simulation convoluée avec un son de voix puis avec un extrait de la balade sonore : 
+Voici à présent un **extrait audio** de cette réponse impulsionnelle convoluée avec un son de voix puis avec un extrait de la balade sonore : 
 
 <audio controls>
   <source src="{{ site.baseurl }}/assets/sons/exemple_convol_IR.mp3' | relative_url  }}" type="audio/mpeg">
