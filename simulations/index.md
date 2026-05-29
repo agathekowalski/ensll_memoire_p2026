@@ -220,15 +220,14 @@ la *cavea* inférieure.
 
 <br>
 
-Voici l'emplacement d'un second couple source/récepteur dans l'espace modélisé :
+Voici l'**emplacement d'un second couple source/récepteur** dans l'espace modélisé :
 
 <img
     src="{{ site.baseurl }}/assets/images/position_S_R_2.png"
     alt="Positions de la _source_ et du _listener_ dans le modèle 3D."
     style="width: 100%; max-width: 800px; height: auto; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
 
-De la même manière, on peut visualiser la position des premières réflexions.
-On retrouve une réflexion précoce sur le mur de scène et l'orchestre.
+De la même manière, on peut visualiser la position des premières réflexions :
 
 <video
     controls
@@ -237,7 +236,8 @@ On retrouve une réflexion précoce sur le mur de scène et l'orchestre.
     <source src="{{ site.baseurl }}/assets/videos/visu2.mp4" type="video/mp4">
 </video>
 
-Les réflexions provenant des côtés de la *cavea* sont entendues peu après, ce qui semble cohérent par rapport à la vidéo.
+On retrouve une réflexion précoce sur le mur de scène et l'orchestre.
+Les réflexions provenant des côtés de la *cavea* sont entendues très peu après, ce qui semble cohérent par rapport à la vidéo.
 
 Voici enfin les graphiques de la réponse impulsionnelle et de la courbe de décroissance correspondantes : 
 
@@ -251,7 +251,7 @@ Voici enfin les graphiques de la réponse impulsionnelle et de la courbe de déc
     </iframe>
 </div>
 
-On remarque que le temps de décroissance est bien plus petit que précedemment : l'énergie des réflexions décroît de 10 dB
+On remarque un **temps de décroissance bien plus petit** que précedemment : l'énergie des réflexions décroît de 10 dB
 plus rapidement (on passe d'un *EDT* de 0,746s pour la première simulation à 0,192 pour la seconde). 
 On entend que la réflexion provenant du côté de la *cavea* arrive légèrement plus tard dans le premier exemple que dans cette seconde proposition.
 Des réflexions latérales plus tardives favoriserait la sensation d'enveloppement de l'auditeur (décrite en Annexe A du mémoire).
