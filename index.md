@@ -38,4 +38,4 @@ Un enregistrement d'écran de l'**application mobile** *Argentomagus en résonan
 ### [V - *Argentomagus en résonance* : détails des réponses qualitatives](argentomagusresonne/)
 
 Le lien ci-dessus regroupe les **données qualitatives** récoltées grâce au questionnaire proposé aux spectateurs.
-L'ensemble des réponses sont consultables, avec une proposition de grille d'analyse thémathique.
+L'ensemble des réponses sont consultables, avec les propositions de grilles d'analyse thémathique.
