@@ -7,7 +7,7 @@ title: Argentomagus en résonance
 
 Vous retrouverez ci-dessous l'ensemble des données qualitatitives collectées : 
 
-**Question 1 : *« Avez-vous quelque chose à ajouter (ressenti, regret, envie, remarque, questionnement) ? »***
+**Question 1 : *« Avez-vous quelque chose à ajouter (ressenti, regret, envie, remarque, questionnement)&nbsp;?&nbsp;»***
 
 **Question 2 : *« Sur quel lieu souhaiteriez-vous refaire ce type d'expérience ? »***
 
