@@ -34,7 +34,7 @@ Tests comparés de **géolocalisation** entre les 2 téléphones.
 
 Capture d'écran vidéo de l'application. 
 
-### [V - *Argentomagus en résonance* : médiatisation et accueil des spectateurs](argentomagusresonne/)
+### [V - *Argentomagus en résonance* : détails des réponses qualitatives](argentomagusresonne/)
 
-Le lien ci-dessus regroupe les **documents de présentation** pour vulgariser à différentes échelles l'expérience sonore proposée. 
-Quelques **articles de presse** et visuels de **communication** concernant l'évènement sont également regroupés.
+Le lien ci-dessus regroupe les **données qualitatives** récoltées grâce au questionnaire proposé aux spectateurs.
+L'ensemble des réponses sont consultables, avec la grille d'analyse thémathique.
