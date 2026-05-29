@@ -88,14 +88,23 @@ Enfin, voici un des articles parus dans ***Le Petit Argentonnais***, journal num
 
 ## Analyses qualitatives 
 
-<div style="width: 1500px; height: 1000px; margin: 1rem 0;">
-    <iframe
-        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyz2452z-Q6jYNvbfrgbDkx96JTaDu28-PUMs63-v9g-yoI2Oe7Vp65zDHw913KLze26vChlGw2KL7/pubhtml"
-        width="100%"
-        height="100%"
-        frameborder="0"
-        style="border: none; border-radius: 5px;">
-    </iframe>
+
+<div style="margin: 1rem 0;">
+    <button onclick="copyTable()" style="padding: 0.5rem 1rem; background: #4285f4; color: white; border: none; border-radius: 4px; cursor: pointer;">
+        Copier le tableau
+    </button>
 </div>
 
+<div style="width: 100%; height: 500px; margin: 1rem 0; border: 1px solid #eee; border-radius: 5px;">
+    <iframe id="sheetFrame" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyz2452z-Q6jYNvbfrgbDkx96JTaDu28-PUMs63-v9g-yoI2Oe7Vp65zDHw913KLze26vChlGw2KL7/pubhtml" width="100%" height="100%" frameborder="0" style="border: none;"></iframe>
+</div>
+
+<script>
+    function copyTable() {
+        // Sélectionne le contenu de l'iframe (nécessite que le domaine soit le même, donc ne fonctionnera pas ici)
+        // Solution alternative : Ouvre le tableau dans un nouvel onglet pour copier
+        window.open("https://docs.google.com/spreadsheets/d/e/2PACX-1vSyz2452z-Q6jYNvbfrgbDkx96JTaDu28-PUMs63-v9g-yoI2Oe7Vp65zDHw913KLze26vChlGw2KL7/pubhtml", _blank");
+        alert("Ouvre le tableau dans le nouvel onglet et utilise Ctrl+A / Ctrl+C pour tout copier.");
+    }
+</script>
 
