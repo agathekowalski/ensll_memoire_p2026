@@ -90,7 +90,7 @@ Enfin, voici un des articles parus dans ***Le Petit Argentonnais***, journal num
 
 <div style="width: 100%; height: 500px; margin: 1rem 0;">
     <iframe
-        src="[https://docs.google.com/spreadsheets/d/TON_ID_FEUILLE/pubhtml?widget=true&amp;headers=false](https://docs.google.com/spreadsheets/d/e/2PACX-1vSyz2452z-Q6jYNvbfrgbDkx96JTaDu28-PUMs63-v9g-yoI2Oe7Vp65zDHw913KLze26vChlGw2KL7/pubhtml)"
+        src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyz2452z-Q6jYNvbfrgbDkx96JTaDu28-PUMs63-v9g-yoI2Oe7Vp65zDHw913KLze26vChlGw2KL7/pubhtml"
         width="100%"
         height="100%"
         frameborder="0"
