@@ -32,10 +32,10 @@ Ce lien contient des extraits sonores et visuels illustrant les **enjeux de spat
 
 Cette section illustre en vidéo le test comparant la **géolocalisation** entre les téléphones *Motorola e15* et *Redmi Xiaomi A5*. 
 
-Un enregistrement d'écran de l'application mobile *Argentomagus en résonance* est également proposé.
+Un enregistrement d'écran de l'**application mobile** *Argentomagus en résonance* en utilisation est ensuite proposé.
 
 
 ### [V - *Argentomagus en résonance* : détails des réponses qualitatives](argentomagusresonne/)
 
 Le lien ci-dessus regroupe les **données qualitatives** récoltées grâce au questionnaire proposé aux spectateurs.
-L'ensemble des réponses sont consultables, avec la grille d'analyse thémathique.
+L'ensemble des réponses sont consultables, avec une proposition de grille d'analyse thémathique.
