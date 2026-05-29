@@ -187,13 +187,18 @@ La simulation est effectuée avec **2 millions de rayons** et une surface récep
     </iframe>
 </div>
 
-On montre sur l'image ci-dessous les positions de source et de récepteur correspondantes : 
+On montre sur les images ci-dessous les positions de source et de récepteur correspondantes dans le modèle : 
 
+<img
+    src="{{ site.baseurl }}/assets/images/position_S_R_1.png"
+    alt="Positions de la _source_ et du _listener_ dans le modèle 3D."
+    style="width: 100%; height: 100%; max-width: 800px;border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
 
 <img
     src="{{ site.baseurl }}/assets/images/position_S_R.png"
     alt="Positions de la _source_ et du _listener_ dans le modèle 3D."
-    style="width: 100%; max-width: 800px; height: auto; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    style="width: 100%; height: 100%; max-width: 800px;border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+
 
 Voici à présent un **extrait audio** de cette réponse impulsionnelle convoluée avec un son de voix puis avec un extrait de la balade sonore : 
 
