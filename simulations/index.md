@@ -198,7 +198,7 @@ On montre sur l' image ci-dessous les positions de source et de récepteur corre
 Voici à présent un **extrait audio** de cette réponse impulsionnelle convoluée avec un son de voix puis avec un extrait de la balade sonore : 
 
 <audio controls>
-  <source src="{{ site.baseurl }}/assets/sons/exemple_conv_IR.mp3' | relative_url  }}" type="audio/mpeg">
+  <source src="{{ site.baseurl }}/assets/sons/exemple_conv_IR.mp3" type="audio/mpeg">
 </audio>
 
 ## 3 - Cartographie des réflexions dans le modèle
