@@ -169,7 +169,7 @@ On obtient donc une seconde banque de temps de réverbération par bande de fré
 Le temps de réverbération moyen de **0,84 s** calculé entre 500 Hz et 1000 Hz paraît plus cohérent en comparaison des mesures réalisées au théâtre de Syracuse. 
 
 
-## 2 - Visualisation d'une réponse impulsionnelle obtenue
+## 2 - Visualisation et écoute d'une réponse impulsionnelle obtenue
 
 Voici une visualisation interactive des paramètres acoustiques issus d'une réponse impulsionnelle simulée dans le modèle 3D.
 On choisit la simulation dont le temps de réverbération est le plus proche de la moyenne obtenue (ici de **0.86s**.
@@ -198,7 +198,10 @@ On montre sur l'image ci-dessous les positions de source et de récepteur corres
 Voici à présent un **extrait audio** de cette réponse impulsionnelle convoluée avec un son de voix puis avec un extrait de la balade sonore : 
 
 <audio controls>
-  <source src="{{ site.baseurl }}/assets/sons/exemple_convol_IR.mp3' | relative_url  }}" type="audio/mpeg">
+  <source src="{{ site.baseurl }}/assets/sons/exemple_conv_IR.mp3' | relative_url  }}" type="audio/mpeg">
 </audio>
+
+## 3 - Cartographie des réflexions dans le modèle
+
 
 
