@@ -233,7 +233,7 @@ On retrouve une réflexion précoce sur le mur de scène et l'orchestre.
     controls
     width="100%"
     style="border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin: 1rem 0;">
-    <source src="{{ site.baseurl }}/assets/videos/vis2.mp4" type="video/mp4">
+    <source src="{{ site.baseurl }}/assets/videos/visu2.mp4" type="video/mp4">
 </video>
 
 Les réflexions provenant des côtés de la *cavea* sont entendues peu après, ce qui semble cohérent par rapport à la vidéo.
