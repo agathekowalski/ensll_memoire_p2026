@@ -88,7 +88,7 @@ Enfin, voici un des articles parus dans ***Le Petit Argentonnais***, journal num
 
 ## Analyses qualitatives 
 
-<div style="width: 100%; height: 500px; margin: 1rem 0;">
+<div style="width: 1500px; height: 1000px; margin: 1rem 0;">
     <iframe
         src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyz2452z-Q6jYNvbfrgbDkx96JTaDu28-PUMs63-v9g-yoI2Oe7Vp65zDHw913KLze26vChlGw2KL7/pubhtml"
         width="100%"
