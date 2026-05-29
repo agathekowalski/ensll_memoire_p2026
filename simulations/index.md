@@ -197,6 +197,8 @@ On montre sur l'image ci-dessous les positions de source et de récepteur corres
 
 Voici à présent un extrait audio de cette simulation convoluée avec un son de voix puis avec un extrait de la balade sonore : 
 
-
+<audio controls>
+  <source src="{{ '/assets/sons/exemple_convol_IR.mp3' | relative_url  }}" type="audio/mpeg">
+</audio>
 
 
