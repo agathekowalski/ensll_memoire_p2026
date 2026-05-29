@@ -189,7 +189,7 @@ On montre sur l'image ci-dessous les positions de la _source_ et du _listener_ c
 
 
 <img
-    src="{{ site.baseurl }}/assets/images/position_S_R_1.1.png"
+    src="{{ site.baseurl }}/assets/images/position_S_R.png"
     alt="Positions de la _source_ et du _listener_ dans le modèle 3D."
     style="width: 100%; max-width: 800px; height: auto; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
 
