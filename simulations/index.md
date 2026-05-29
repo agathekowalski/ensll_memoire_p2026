@@ -237,7 +237,7 @@ On retrouve une réflexion précoce sur le mur de scène et l'orchestre.
     <source src="{{ site.baseurl }}/assets/videos/visu2.mp4" type="video/mp4">
 </video>
 
-Les réflexions provenant des côtés de la *cavea* sont entendues très peu après, ce qui semble cohérent par rapport à la vidéo.
+Les réflexions provenant des côtés de la *cavea* sont entendues peu après, ce qui semble cohérent par rapport à la vidéo.
 
 Voici enfin les graphiques de la réponse impulsionnelle et de la courbe de décroissance correspondantes : 
 
@@ -252,6 +252,6 @@ Voici enfin les graphiques de la réponse impulsionnelle et de la courbe de déc
 </div>
 
 On remarque que le temps de décroissance est bien plus petit que précedemment : l'énergie des réflexions décroît de 10 dB
-plus rapidement. 
+plus rapidement (on passe d'un *EDT* de 0,746s pour la première simulation à 0,192 pour la seconde). 
 On entend que la réflexion provenant du côté de la *cavea* arrive légèrement plus tard dans le premier exemple que dans cette seconde proposition.
 Des réflexions latérales plus tardives favoriserait la sensation d'enveloppement de l'auditeur (décrite en Annexe A du mémoire).
