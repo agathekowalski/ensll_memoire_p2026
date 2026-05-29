@@ -214,7 +214,7 @@ la *cavea* inférieure.
     controls
     width="100%"
     style="border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin: 1rem 0;">
-    <source src="{{ site.baseurl }}/assets/videos/simu1.mp4" type="video/mp4">
+    <source src="{{ site.baseurl }}/assets/videos/visu1.mp4" type="video/mp4">
 </video>
 
 <br>
@@ -233,12 +233,12 @@ On retrouve une réflexion précoce sur le mur de scène et l'orchestre.
     controls
     width="100%"
     style="border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin: 1rem 0;">
-    <source src="{{ site.baseurl }}/assets/videos/simu2.mp4" type="video/mp4">
+    <source src="{{ site.baseurl }}/assets/videos/vis2.mp4" type="video/mp4">
 </video>
 
 Les réflexions provenant des côtés de la *cavea* sont entendues peu après, ce qui semble cohérent par rapport à la vidéo.
 
-Voici enfin les graphiques de la réponse impulsionnelles et de la courbe de décroissance : 
+Voici enfin les graphiques de la réponse impulsionnelle et de la courbe de décroissance correspondantes : 
 
 <div style="width: 1200px; height: 800px; margin: 1rem 0; border: 1px solid #eee; border-radius: 5px;">
     <iframe
