@@ -176,7 +176,7 @@ Voici une visualisation interactive des paramètres acoustiques issus d'une rép
 La simulation est effectuée avec **2 millions de rayons** et une surface réceptrice d'un **diamètre de 0,50 mètres**. 
 
 <iframe
-    src="interactive/RIR_config1_listener3_source1.html"
+    src="{{ site.baseurl }}/interactive/RIR_config1_listener3_source1.html"
     width="100%"
     height="800px"
     width="1000px" 
