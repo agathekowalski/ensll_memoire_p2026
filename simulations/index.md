@@ -203,9 +203,11 @@ Voici à présent un **extrait audio** de cette réponse impulsionnelle convolu�
 
 ## 3 - Cartographie des réflexions dans le modèle
 
-Voici enfin une vidéo cartographiant les réflexions en abisonique dans le modèle 3D, pour les positions précédentes.
+Voici enfin une vidéo **cartographiant les réflexions en ambisonique**, pour les positions de source et de récepteur précédentes.
+Elle est générée grâce aux outils internes de l'entreprise *Noise Makers*. Plus la tâche est rouge, plus l'amplitude de la réfléxion est élevée.
 
-Ell est générée grâce aux outils internes de l'entreprise *Noise Makers* et permet de visualiser la provenance de la réflexion entendue, ici principalement sur
+Un visuel équirectangulaire du modèle 3D est rendu à la position exacte de la source qui a permis d'obtenir la réponse impulsionnelle.
+En superposant sur cette image les réflexions, on peut visualiser la provenance des réflexions entendues, ici principalement sur
 la *cavea* inférieure.
 
 <video
