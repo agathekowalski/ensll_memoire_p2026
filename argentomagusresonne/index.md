@@ -5,11 +5,11 @@ title: Argentomagus en résonance
 ---
 # *Argentomagus en résonance* : analyses qualitatives 
 
-Vous retrouverez ci-dessous l'ensemble des données qualitatitives collectées~: 
+Vous retrouverez ci-dessous l'ensemble des données qualitatitives collectées : 
 
-Question 1 : *« Avez-vous quelque chose à ajouter (ressenti, regret, envie, remarque, questionnement) ? »*
+**Question 1 : *« Avez-vous quelque chose à ajouter (ressenti, regret, envie, remarque, questionnement) ? »***
 
-Question 2 : *« Sur quel lieu souhaiteriez-vous refaire ce type d'expérience ? »*
+**Question 2 : *« Sur quel lieu souhaiteriez-vous refaire ce type d'expérience ? »***
 
 Une grille d'analyse thémathique est proposée pour simplifier l'analyse en classant les réponses selon plusieurs catégories.
 
