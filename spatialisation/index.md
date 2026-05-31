@@ -19,7 +19,7 @@ Pour favoriser l'aspect naturel de la voix, elle a été placée dans la sphère
 ## 2 - Zone 3 : Simulation de l'acoustique du couloir
 
 Cette troisième séquence est déclenchée dans le couloir menant aux gradins. L'acoustique de son état *antique* est simulée à partir d'une modélisation 3D spécifique,
-visant à reproduire la perception sonore d'un espace clos.
+visant à reproduire la sensation perceptive sonore d'un espace clos.
 
 <audio controls>
   <source src="{{ '/assets/sons/zoneCouloir.mp3' | relative_url }}" type="audio/mpeg">
@@ -44,11 +44,11 @@ Voici à présent une courte vidéo associant le **texte**, la **position de la 
 
 ## 4 - Zone 7 : Confession d'Aphrodisius dans l'orchestre
 
-Dans cette scène, Aphrodisius confesse à Quintus sa peur de décevoir la prêtresse. Les voix des deux hommes sont placées très près de l'auditeur,
+Dans cette scène, Aphrodisius confesse à Quintus sa peur de décevoir la prêtresse. Les voix des deux hommes sont placées à proximité de l'auditeur,
 comme s'ils chuchotaient de part et d'autre du participant, qui entre ainsi dans la confidence.
-Plus loin derrière le spectateur, la prêtresse invoque Minerve dans l'arrière-scène par des formules étranges ; elle agit comme un ressort comique.
+Plus loin derrière le spectateur, la prêtresse invoquant Minerve dans l'arrière-scène par des formules étranges agit comme un ressort comique.
 
-La position de la prêtresse n'est pas facilement localisable à partir d'une écoute binaurale statique. Le suivi de l'orientation de la tête apporte
+La position de la prêtresse n'est pas facilement localisable à partir d'une écoute en binaural statique. Le suivi de l'orientation de la tête apporte
 donc beaucoup à ce type de scène, qui mobilise l'ensemble de la sphère sonore.
 
 <audio controls>
