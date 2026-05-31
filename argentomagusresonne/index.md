@@ -3,7 +3,7 @@ layout: default
 title: Argentomagus en résonance
 
 ---
-# *Argentomagus en résonance* : analyses qualitatives
+# *Argentomagus en résonance* : données qualitatives
 
 Vous retrouverez ci-dessous l'ensemble des données qualitatives collectées :
 
