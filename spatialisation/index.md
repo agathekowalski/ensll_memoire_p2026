@@ -7,11 +7,17 @@ title: Spatialisation et auralisation des sources
 
 ## 1 - Zone 1 : Placement de la voix de Françoise dans la sphère sonore 
 
+L'extrait ci-dessous correspond à la première séquence de la balade. La voix de Françoise est convoluée par une réponse impulsionnelle issue des mesures acoustiques sur le site.
+Pour favoriser l'aspect naturel de la voix, elle a été placée dans la sphère ambisonique comme un objet sonore monophonique en face du spectateur, légèrement sur sa droite.
+
 <audio controls>
   <source src="{{ '/assets/sons/zone1.mp3' | relative_url }}" type="audio/mpeg">
 </audio>
 
 ## 2 - Zone 3 : Simulation de l'acoustique du couloir
+
+Cette troisième séquence est déclenchée dans le couloir menant aux gradins. L'acoustique de son état *antique* est simulée à partir d'une modélisation 3D spécifique,
+visant à reproduire la sensation perceptive sonore d'un espace clos.
 
 <audio controls>
   <source src="{{ '/assets/sons/zoneCouloir.mp3' | relative_url }}" type="audio/mpeg">
@@ -39,11 +45,25 @@ Voici à présent le une courte vidéo associant le **texte**, la **position de 
 
 ## 4 - Zone 7 : Confession d'Aphrodisius dans l'orchestre
 
+Dans cette scène, Aphrodisius confesse à Quintus sa peur de décevoir la prêtresse. Les voix des deux hommes sont placées très proche l'auditeur,
+comme s'ils chuchottaient de part et d'autre du participant qui entre ainsi dans la confidence.
+Plus loin derrière le spectateur, la prêtresse invoque Minerve dans l'arrière-scène par des formules étranges, elle agit comme un ressort comique.
+
+La position de la prêtresse n'est pas facilement localisable à partir d'une écoute en binaural statique. Le suivi de l'orientation de la tête apporte
+donc beaucoup pour ce type de scène qui mobilise toute la sphère sonore.
+
 <audio controls>
   <source src="{{ '/assets/sons/zone7.mp3' | relative_url }}" type="audio/mpeg">
 </audio>
 
 ## 5 - Zone 9 : Spectacle sur la scène 
+
+Dans cette séquence, Aphrodisius déclame son texte devant le foule. Sa voix est placée à proximité du spectateur pour tenter de l'immerger sur scène.
+Encore une fois, les commentaires de la prêtresse sur sa droite assument un aspect comique.
+
+La foule est constituée de deux types de sons. Une partie a été enregistrée grâce au microphone ambisonique d'ordre 3 *spcmic* avec une quarantaine de figurants.
+Le reste des ambiances sont des enregistrements en ambisonie d'ordre 1 disponibles dans la
+[base de données de la marque *Rode*]([http://a.com](https://library.soundfield.com/browse/People/Sport)).
 
 <audio controls>
   <source src="{{ '/assets/sons/zone9.mp3' | relative_url }}" type="audio/mpeg">
