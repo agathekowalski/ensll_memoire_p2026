@@ -11,6 +11,8 @@ title: accueil
 
 **Création sonore immersive au théâtre antique d’Argentomagus**
 
+Voici le papier présenté au MUM 2026 (25th International Conference on Mobile and Ubiquitous Multimedia) : 
+
 Les **annexes audiovisuelles et numériques** du mémoire sont à consulter grâce aux liens ci-dessous.
 
 ### [I - Mesures acoustiques du théâtre d'Argentomagus (état actuel)](mesures/)
