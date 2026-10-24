@@ -12,6 +12,18 @@ title: accueil
 **Création sonore immersive au théâtre antique d’Argentomagus**
 
 Voici le papier présenté au MUM 2026 (25th International Conference on Mobile and Ubiquitous Multimedia) : 
+<iframe
+  src="./MUM_2026.pdf"
+  width="100%"
+  height="700"
+  style="border: none;">
+</iframe>
+
+<p>
+  <a href="./MUM_2026.pdf" download="MUM_2026.pdf">
+    Télécharger le PDF.
+  </a>
+</p>
 
 Les **annexes audiovisuelles et numériques** du mémoire sont à consulter grâce aux liens ci-dessous.
 
