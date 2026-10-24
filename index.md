@@ -5,11 +5,11 @@ title: accueil
 ---
 
 
-# Annexes audiovisuelles et numériques du mémoire
-
-## La ruine antique en réalité augmentée audio
+# Mémoire de recherche - La ruine antique en réalité augmentée audio
 
 **Création sonore immersive au théâtre antique d’Argentomagus**
+
+## MUM 2026
 
 Voici le papier présenté au MUM 2026 (25th International Conference on Mobile and Ubiquitous Multimedia) : 
 <iframe
@@ -24,6 +24,8 @@ Voici le papier présenté au MUM 2026 (25th International Conference on Mobile 
     Télécharger le PDF.
   </a>
 </p>
+
+## Annexes audio-visuelles du mémoire
 
 Les **annexes audiovisuelles et numériques** du mémoire sont à consulter grâce aux liens ci-dessous.
 
