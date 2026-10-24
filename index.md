@@ -11,7 +11,7 @@ title: accueil
 
 ## MUM 2026
 
-Voici le papier présenté au MUM 2026 (25th International Conference on Mobile and Ubiquitous Multimedia) : 
+Voici le papier présenté au **MUM 2026** (**25th International Conference on Mobile and Ubiquitous Multimedia**) : 
 <iframe
   src="./MUM_2026.pdf"
   width="100%"
